@@ -1,0 +1,1001 @@
+reciverid,name,age,gender,bloodgroup,organ,organ_tissue_type,urgency,location,gamil,hospital_name,medical_history
+R06253,Ananya Jain,25,F,O+,Cornea,HLA-A,2,Nagaland,ananyajain7122@gmail.com,Ruby Hall Hospital,Thyroid disorder
+R04685,Isha Kumar,70,F,B-,Lung,HLA-A,2,Karnataka,ishakumar3217@gmail.com,Max Medical Centre,Thyroid disorder
+R01732,Riya Verma,36,F,B+,Lung,HLA-B,2,Nagaland,riyaverma2732@gmail.com,Apollo Super Speciality Hospital,Alcohol use
+R04743,Siddharth Sharma,61,M,B+,Cornea,HLA-A,2,Gujarat,siddharthsharma1454@gmail.com,Global Clinic,Hypertension
+R04522,Ananya Mehta,44,F,B-,Cornea,HLA-A,2,Uttarakhand,ananyamehta3962@gmail.com,Fortis Hospital,Chronic Kidney Disease
+R06341,Vijay Reddy,57,M,O+,Pancreas,HLA-DR,1,Chhattisgarh,vijayreddy653@gmail.com,NM Hospital Clinic,Smoker
+R00577,Amit Jain,32,M,B-,Lung,HLA-B,1,Andaman and Nicobar Islands,amitjain9494@gmail.com,Ruby Hall Medical Centre,Thyroid disorder
+R05203,Saanvi Patel,11,F,B+,Pancreas,HLA-B,0,Haryana,saanvipatel1856@gmail.com,Medanta Medical Centre,Asthma
+R06364,Rohan Reddy,40,M,O+,Liver,HLA-DR,0,Andhra Pradesh,rohanreddy4604@gmail.com,Manipal Institute of Medical Sciences,Chronic Kidney Disease
+R00440,Anjali Patel,49,F,AB-,Cornea,HLA-B,1,Himachal Pradesh,anjalipatel9226@gmail.com,Care Healthcare,Previous surgery
+R02751,Kunal Reddy,36,M,A+,Kidney,HLA-A,1,Chhattisgarh,kunalreddy2531@gmail.com,Max Medical Centre,Alcohol use
+R07488,Suraj Gupta,68,M,A-,Lung,HLA-B,1,Haryana,surajgupta8656@gmail.com,KIMS Healthcare,Alcohol use
+R05273,Nisha Khan,11,F,B+,Heart,HLA-B,2,Delhi,nishakhan3923@gmail.com,Narayana Medical Centre,Previous surgery
+R05654,Pranav Sharma,67,M,AB+,Cornea,HLA-A,0,Manipur,pranavsharma7748@gmail.com,Sri Institute of Medical Sciences,Hypertension
+R04000,Riya Iyer,17,F,A-,Heart,HLA-DR,0,Chhattisgarh,riyaiyer5776@gmail.com,NM Hospital Medical Centre,Allergy
+R06034,Pooja Jain,28,F,AB+,Lung,HLA-A,2,Uttar Pradesh,poojajain6554@gmail.com,Sri Healthcare,Smoker
+R00583,Sneha Rao,16,F,B-,Lung,HLA-A,2,Odisha,sneharao5316@gmail.com,Fortis Hospital,Hepatitis
+R09931,Amit Jain,30,M,A+,Liver,HLA-B,1,Uttarakhand,amitjain1823@gmail.com,Medanta Super Speciality Hospital,None
+R07052,Nisha Kumar,75,F,A-,Cornea,HLA-A,1,Daman and Diu,nishakumar4536@gmail.com,Apollo Medical Centre,Asthma
+R08159,Riya Rao,5,F,AB+,Kidney,HLA-B,0,Delhi,riyarao8783@gmail.com,Kokilaben Super Speciality Hospital,Hepatitis
+R09897,Nisha Chowdhury,66,F,B-,Lung,HLA-A,1,Goa,nishachowdhury5123@gmail.com,Max Institute of Medical Sciences,Hypertension
+R02250,Priya Reddy,51,F,O-,Kidney,HLA-DR,0,Mizoram,priyareddy4767@gmail.com,Narayana Institute of Medical Sciences,Alcohol use
+R04641,Sneha Gupta,65,F,O-,Kidney,HLA-A,1,Bihar,snehagupta9276@gmail.com,Narayana Hospital,Asthma
+R09486,Pavitra Bose,68,F,AB+,Heart,HLA-DR,0,Dadra and Nagar Haveli,pavitrabose2518@gmail.com,Max Healthcare,Allergy
+R04948,Abhishek Khan,57,M,O-,Cornea,HLA-A,0,Uttar Pradesh,abhishekkhan3587@gmail.com,Global Medical Centre,Alcohol use
+R09921,Karan Jain,27,M,AB-,Pancreas,HLA-A,1,Telangana,karanjain3123@gmail.com,Columbia Asia Institute of Medical Sciences,None
+R01964,Sakshi Ghosh,35,F,B+,Lung,HLA-B,2,Himachal Pradesh,sakshighosh7796@gmail.com,Fortis Institute of Medical Sciences,Diabetes
+R08244,Suraj Reddy,10,M,B-,Liver,HLA-B,2,Maharashtra,surajreddy1293@gmail.com,KIMS Medical Centre,Hypertension
+R06591,Kunal Bose,20,M,A-,Lung,HLA-A,1,Jammu and Kashmir,kunalbose3380@gmail.com,Apollo Super Speciality Hospital,Previous surgery
+R08848,Neha Iyer,44,F,A+,Pancreas,HLA-DR,1,Chandigarh,nehaiyer6705@gmail.com,Care Healthcare,Previous surgery
+R00322,Pranav Joshi,52,M,O+,Cornea,HLA-A,0,Gujarat,pranavjoshi3563@gmail.com,Columbia Asia Institute of Medical Sciences,Diabetes
+R02679,Yash Gupta,41,M,B+,Cornea,HLA-A,2,West Bengal,yashgupta3600@gmail.com,Max Super Speciality Hospital,Smoker
+R04626,Kavya Gupta,55,F,A-,Cornea,HLA-DR,0,Puducherry,kavyagupta3487@gmail.com,Apollo Healthcare,Smoker
+R04950,Sanjay Joshi,20,M,B-,Kidney,HLA-B,2,Punjab,sanjayjoshi5574@gmail.com,Medanta Hospital,Cardiac disease
+R08329,Vijay Sharma,32,M,B+,Cornea,HLA-B,1,Karnataka,vijaysharma6541@gmail.com,Medanta Medical Centre,Thyroid disorder
+R03338,Saanvi Chowdhury,65,F,A+,Pancreas,HLA-B,2,Delhi,saanvichowdhury5028@gmail.com,Manipal Clinic,Obesity
+R05590,Nisha Chopra,75,F,AB+,Cornea,HLA-B,2,Jharkhand,nishachopra1138@gmail.com,Columbia Asia Institute of Medical Sciences,Allergy
+R00252,Deepika Patel,66,F,AB-,Lung,HLA-DR,1,Daman and Diu,deepikapatel5451@gmail.com,AIIMS Medical Centre,Alcohol use
+R03974,Divya Iyer,74,F,O-,Kidney,HLA-A,1,Tamil Nadu,divyaiyer4132@gmail.com,Kokilaben Clinic,Obesity
+R06631,Aishwarya Gupta,28,F,A+,Liver,HLA-B,1,Maharashtra,aishwaryagupta6740@gmail.com,Global Super Speciality Hospital,Asthma
+R05548,Arjun Bose,20,M,B+,Pancreas,HLA-DR,2,Jammu and Kashmir,arjunbose6884@gmail.com,Manipal Super Speciality Hospital,Smoker
+R00036,Nisha Kumar,38,F,A-,Liver,HLA-DR,1,Madhya Pradesh,nishakumar2426@gmail.com,Narayana Super Speciality Hospital,Chronic Kidney Disease
+R08363,Manish Rao,49,M,B+,Heart,HLA-B,0,Chandigarh,manishrao9280@gmail.com,Ruby Hall Institute of Medical Sciences,Previous surgery
+R01514,Amit Ghosh,23,M,B+,Kidney,HLA-B,2,Ladakh,amitghosh617@gmail.com,Ruby Hall Medical Centre,Obesity
+R09318,Isha Verma,56,F,A+,Kidney,HLA-DR,2,Odisha,ishaverma8597@gmail.com,Sri Medical Centre,Obesity
+R00040,Sanjay Banerjee,71,M,B-,Pancreas,HLA-DR,0,Kerala,sanjaybanerjee9422@gmail.com,Care Hospital,Chronic Kidney Disease
+R04820,Sakshi Sharma,57,F,B-,Kidney,HLA-B,2,Manipur,sakshisharma8185@gmail.com,NM Hospital Hospital,Diabetes
+R03466,Pavitra Patel,28,F,AB-,Kidney,HLA-B,0,Himachal Pradesh,pavitrapatel5847@gmail.com,Max Medical Centre,Thyroid disorder
+R01761,Yash Chopra,38,M,B-,Pancreas,HLA-B,0,Jammu and Kashmir,yashchopra5608@gmail.com,Fortis Hospital,None
+R02305,Riya Bose,27,F,AB+,Liver,HLA-B,0,Uttar Pradesh,riyabose2136@gmail.com,Medanta Medical Centre,None
+R03724,Meera Bose,26,F,AB+,Cornea,HLA-A,1,Assam,meerabose9261@gmail.com,Manipal Clinic,Previous surgery
+R08285,Tanya Nair,57,F,A-,Liver,HLA-B,0,Tamil Nadu,tanyanair4933@gmail.com,AIIMS Clinic,Previous surgery
+R04994,Aanya Kapoor,62,F,O-,Cornea,HLA-B,1,Haryana,aanyakapoor9718@gmail.com,Sri Super Speciality Hospital,Diabetes
+R08128,Shruti Joshi,43,F,AB+,Heart,HLA-DR,1,Odisha,shrutijoshi225@gmail.com,Ruby Hall Healthcare,Thyroid disorder
+R03033,Siddharth Rao,4,M,B+,Lung,HLA-DR,1,Rajasthan,siddharthrao7373@gmail.com,Apollo Super Speciality Hospital,Alcohol use
+R07939,Siddharth Kumar,46,M,O+,Pancreas,HLA-A,0,Meghalaya,siddharthkumar4228@gmail.com,Narayana Healthcare,Diabetes
+R03040,Tanya Verma,55,F,B-,Heart,HLA-A,2,Daman and Diu,tanyaverma3689@gmail.com,KIMS Institute of Medical Sciences,Smoker
+R09656,Kunal Kumar,61,M,AB-,Kidney,HLA-A,1,Tamil Nadu,kunalkumar603@gmail.com,Sri Institute of Medical Sciences,Alcohol use
+R02546,Divya Reddy,71,F,O+,Lung,HLA-A,2,Meghalaya,divyareddy1256@gmail.com,Apollo Super Speciality Hospital,Hepatitis
+R02593,Rohan Rao,53,M,A+,Lung,HLA-B,1,Andhra Pradesh,rohanrao8972@gmail.com,Sri Institute of Medical Sciences,Chronic Kidney Disease
+R01189,Rohan Sharma,6,M,AB+,Kidney,HLA-A,2,Gujarat,rohansharma1136@gmail.com,KIMS Hospital,Asthma
+R07967,Sneha Banerjee,61,F,A+,Heart,HLA-A,1,Odisha,snehabanerjee7663@gmail.com,Narayana Hospital,Diabetes
+R06078,Saanvi Joshi,5,F,AB-,Kidney,HLA-DR,0,Karnataka,saanvijoshi2376@gmail.com,Narayana Healthcare,Chronic Kidney Disease
+R00108,Tanya Gupta,13,F,O+,Heart,HLA-DR,1,Andhra Pradesh,tanyagupta8578@gmail.com,AIIMS Medical Centre,Asthma
+R01316,Sanjay Kapoor,27,M,B+,Pancreas,HLA-A,0,Odisha,sanjaykapoor9744@gmail.com,Ruby Hall Hospital,Hepatitis
+R08188,Pavitra Patel,68,F,A+,Liver,HLA-B,2,Arunachal Pradesh,pavitrapatel8560@gmail.com,Narayana Clinic,Obesity
+R02754,Sneha Banerjee,4,F,B+,Cornea,HLA-A,0,Bihar,snehabanerjee1887@gmail.com,NM Hospital Institute of Medical Sciences,Cardiac disease
+R09754,Kavya Singh,28,F,B-,Heart,HLA-A,1,Odisha,kavyasingh4628@gmail.com,AIIMS Clinic,Thyroid disorder
+R06232,Karan Kapoor,70,M,A+,Lung,HLA-DR,1,Ladakh,karankapoor2808@gmail.com,Fortis Super Speciality Hospital,Allergy
+R02877,Sanjay Iyer,51,M,A-,Pancreas,HLA-A,1,Dadra and Nagar Haveli,sanjayiyer8259@gmail.com,Fortis Medical Centre,Cardiac disease
+R05324,Nisha Joshi,73,F,O-,Liver,HLA-A,2,Punjab,nishajoshi6116@gmail.com,NM Hospital Medical Centre,Diabetes
+R00800,Pavitra Jain,7,F,B+,Heart,HLA-A,1,Andaman and Nicobar Islands,pavitrajain4150@gmail.com,NM Hospital Institute of Medical Sciences,Hepatitis
+R03571,Priya Chowdhury,43,F,O+,Kidney,HLA-A,1,Delhi,priyachowdhury2342@gmail.com,Sri Hospital,Cardiac disease
+R02895,Karan Patel,72,M,AB+,Pancreas,HLA-B,1,Odisha,karanpatel5924@gmail.com,Columbia Asia Hospital,Alcohol use
+R02928,Shruti Joshi,17,F,A+,Kidney,HLA-B,2,Kerala,shrutijoshi1404@gmail.com,Medanta Medical Centre,Diabetes
+R08179,Tanya Gupta,71,F,AB-,Heart,HLA-A,1,Jammu and Kashmir,tanyagupta6527@gmail.com,Manipal Clinic,Thyroid disorder
+R00972,Pooja Verma,24,F,AB-,Kidney,HLA-B,1,Haryana,poojaverma8111@gmail.com,AIIMS Super Speciality Hospital,Previous surgery
+R06688,Sanjay Joshi,30,M,O+,Heart,HLA-DR,2,Dadra and Nagar Haveli,sanjayjoshi8212@gmail.com,Ruby Hall Institute of Medical Sciences,Asthma
+R08576,Aniket Khan,61,M,O-,Cornea,HLA-DR,2,Uttar Pradesh,aniketkhan1889@gmail.com,Care Institute of Medical Sciences,None
+R02021,Neha Patel,64,F,A-,Heart,HLA-B,2,Andhra Pradesh,nehapatel7399@gmail.com,Apollo Healthcare,Hypertension
+R09055,Sakshi Chopra,59,F,AB+,Liver,HLA-A,2,Goa,sakshichopra9555@gmail.com,KIMS Healthcare,Hepatitis
+R00953,Kunal Ghosh,61,M,B-,Heart,HLA-A,1,Assam,kunalghosh7437@gmail.com,Global Institute of Medical Sciences,Thyroid disorder
+R05360,Pranav Kapoor,59,M,AB-,Liver,HLA-DR,2,Odisha,pranavkapoor2646@gmail.com,Care Medical Centre,Previous surgery
+R03858,Yash Verma,65,M,O+,Kidney,HLA-DR,0,Chhattisgarh,yashverma4476@gmail.com,NM Hospital Super Speciality Hospital,Obesity
+R05862,Ananya Gupta,26,F,A-,Heart,HLA-A,0,Assam,ananyagupta944@gmail.com,Global Institute of Medical Sciences,Hepatitis
+R03146,Deepika Jain,8,F,AB+,Kidney,HLA-B,1,Dadra and Nagar Haveli,deepikajain6729@gmail.com,Narayana Clinic,Diabetes
+R03306,Aarav Sharma,9,M,B-,Pancreas,HLA-B,0,Odisha,aaravsharma2151@gmail.com,NM Hospital Hospital,Asthma
+R03007,Isha Bose,26,F,O-,Kidney,HLA-B,0,Odisha,ishabose7238@gmail.com,Narayana Healthcare,Asthma
+R09002,Abhishek Bose,64,M,A-,Pancreas,HLA-DR,2,Haryana,abhishekbose7916@gmail.com,Fortis Institute of Medical Sciences,Chronic Kidney Disease
+R07771,Meera Patel,34,F,O+,Lung,HLA-B,2,Uttarakhand,meerapatel3485@gmail.com,NM Hospital Clinic,Smoker
+R07439,Siddharth Bose,22,M,AB-,Heart,HLA-DR,1,Uttarakhand,siddharthbose3651@gmail.com,Manipal Super Speciality Hospital,Obesity
+R07943,Kunal Gupta,58,M,AB-,Cornea,HLA-DR,2,Uttarakhand,kunalgupta6045@gmail.com,Apollo Healthcare,None
+R09239,Rajesh Rao,34,M,AB+,Heart,HLA-B,2,Maharashtra,rajeshrao8077@gmail.com,Columbia Asia Super Speciality Hospital,Allergy
+R01057,Kunal Ghosh,57,M,O+,Heart,HLA-A,0,Andhra Pradesh,kunalghosh4617@gmail.com,Care Super Speciality Hospital,Hypertension
+R03155,Suraj Bose,60,M,A-,Heart,HLA-A,1,Dadra and Nagar Haveli,surajbose8328@gmail.com,Apollo Institute of Medical Sciences,Hepatitis
+R03788,Priya Iyer,39,F,AB+,Liver,HLA-DR,1,Andaman and Nicobar Islands,priyaiyer617@gmail.com,Columbia Asia Institute of Medical Sciences,None
+R09190,Divya Jain,19,F,O+,Pancreas,HLA-B,0,Odisha,divyajain2151@gmail.com,Fortis Medical Centre,Asthma
+R07826,Aniket Verma,8,M,A+,Liver,HLA-B,1,Andaman and Nicobar Islands,aniketverma9805@gmail.com,Fortis Clinic,Chronic Kidney Disease
+R07540,Vijay Singh,2,M,A+,Lung,HLA-A,1,Gujarat,vijaysingh7681@gmail.com,Sri Institute of Medical Sciences,Diabetes
+R07232,Karan Verma,70,M,B-,Liver,HLA-A,0,Ladakh,karanverma3892@gmail.com,Columbia Asia Clinic,Diabetes
+R00765,Riya Iyer,2,F,B+,Pancreas,HLA-B,1,Tripura,riyaiyer6978@gmail.com,Kokilaben Super Speciality Hospital,Alcohol use
+R05020,Kunal Nair,73,M,B-,Lung,HLA-B,2,Mizoram,kunalnair7293@gmail.com,Kokilaben Clinic,Obesity
+R04904,Vijay Verma,67,M,B+,Pancreas,HLA-DR,0,Karnataka,vijayverma3073@gmail.com,NM Hospital Medical Centre,Obesity
+R08094,Suraj Kapoor,69,M,B+,Cornea,HLA-A,2,Karnataka,surajkapoor7464@gmail.com,Max Super Speciality Hospital,Cardiac disease
+R06844,Ananya Chowdhury,50,F,AB-,Heart,HLA-A,1,Himachal Pradesh,ananyachowdhury4933@gmail.com,Apollo Institute of Medical Sciences,Thyroid disorder
+R02166,Amit Kumar,31,M,B-,Kidney,HLA-DR,0,Jammu and Kashmir,amitkumar6273@gmail.com,Medanta Medical Centre,Obesity
+R01863,Pooja Sharma,49,F,O+,Cornea,HLA-A,0,Jammu and Kashmir,poojasharma2743@gmail.com,KIMS Institute of Medical Sciences,Asthma
+R07851,Divya Nair,43,F,A+,Heart,HLA-DR,2,Madhya Pradesh,divyanair4343@gmail.com,NM Hospital Medical Centre,Previous surgery
+R09124,Amit Chowdhury,13,M,A-,Kidney,HLA-B,2,Puducherry,amitchowdhury3693@gmail.com,Medanta Clinic,None
+R02341,Abhishek Iyer,61,M,AB+,Liver,HLA-A,1,Nagaland,abhishekiyer2615@gmail.com,Max Super Speciality Hospital,Asthma
+R05528,Riya Banerjee,32,F,O-,Cornea,HLA-A,0,Mizoram,riyabanerjee9567@gmail.com,Kokilaben Healthcare,Chronic Kidney Disease
+R06744,Vivaan Kumar,55,M,A+,Heart,HLA-DR,0,Sikkim,vivaankumar5165@gmail.com,Fortis Clinic,None
+R04004,Aditya Verma,2,M,A-,Lung,HLA-DR,2,Rajasthan,adityaverma6031@gmail.com,Narayana Clinic,Alcohol use
+R01124,Rohan Rao,70,M,AB-,Liver,HLA-B,1,Chhattisgarh,rohanrao8318@gmail.com,Medanta Clinic,Cardiac disease
+R08710,Aarav Patel,9,M,AB+,Cornea,HLA-A,0,Odisha,aaravpatel7406@gmail.com,Manipal Clinic,Cardiac disease
+R04050,Sanjay Banerjee,72,M,B+,Heart,HLA-DR,1,Nagaland,sanjaybanerjee2287@gmail.com,Max Medical Centre,Alcohol use
+R07641,Aanya Khan,34,F,O+,Pancreas,HLA-DR,1,Chhattisgarh,aanyakhan1683@gmail.com,KIMS Super Speciality Hospital,Cardiac disease
+R00766,Shruti Singh,57,F,O+,Lung,HLA-A,1,Mizoram,shrutisingh8371@gmail.com,Apollo Healthcare,Hepatitis
+R02345,Pooja Rao,54,F,A-,Liver,HLA-DR,0,Telangana,poojarao68@gmail.com,Narayana Healthcare,Allergy
+R04072,Nisha Gupta,60,F,B-,Liver,HLA-A,2,Uttar Pradesh,nishagupta1962@gmail.com,KIMS Clinic,Hypertension
+R07217,Pranav Khan,12,M,AB-,Lung,HLA-B,1,Sikkim,pranavkhan3519@gmail.com,Columbia Asia Medical Centre,Cardiac disease
+R04217,Meera Ghosh,28,F,A+,Cornea,HLA-A,1,Odisha,meeraghosh1253@gmail.com,Fortis Institute of Medical Sciences,Smoker
+R07953,Pranav Gupta,42,M,B+,Kidney,HLA-DR,0,Ladakh,pranavgupta8831@gmail.com,Apollo Hospital,Thyroid disorder
+R05971,Sakshi Ghosh,40,F,AB+,Pancreas,HLA-DR,2,Goa,sakshighosh1760@gmail.com,Kokilaben Clinic,Chronic Kidney Disease
+R03351,Divya Bose,38,F,B+,Heart,HLA-A,1,Punjab,divyabose2173@gmail.com,Kokilaben Super Speciality Hospital,Obesity
+R04696,Pooja Khan,7,F,B-,Kidney,HLA-A,2,Assam,poojakhan9391@gmail.com,NM Hospital Institute of Medical Sciences,Hepatitis
+R03400,Yash Sharma,28,M,O-,Lung,HLA-A,1,Jammu and Kashmir,yashsharma3234@gmail.com,KIMS Super Speciality Hospital,Hepatitis
+R04082,Sanjay Nair,61,M,O+,Cornea,HLA-B,0,Delhi,sanjaynair5951@gmail.com,AIIMS Medical Centre,Obesity
+R09150,Yash Jain,50,M,O+,Lung,HLA-DR,2,Sikkim,yashjain8393@gmail.com,Manipal Healthcare,Chronic Kidney Disease
+R01225,Vivaan Khan,68,M,B+,Kidney,HLA-A,0,West Bengal,vivaankhan35@gmail.com,NM Hospital Healthcare,Hepatitis
+R06293,Riya Joshi,18,F,O+,Kidney,HLA-B,1,Punjab,riyajoshi2179@gmail.com,AIIMS Hospital,Alcohol use
+R03123,Ananya Banerjee,75,F,AB+,Kidney,HLA-A,1,Puducherry,ananyabanerjee6281@gmail.com,Global Hospital,Chronic Kidney Disease
+R00511,Saanvi Banerjee,45,F,O-,Kidney,HLA-B,2,Nagaland,saanvibanerjee9724@gmail.com,Global Hospital,Obesity
+R05795,Rajesh Joshi,44,M,A-,Liver,HLA-DR,0,Jammu and Kashmir,rajeshjoshi1607@gmail.com,Max Institute of Medical Sciences,Alcohol use
+R08182,Vijay Iyer,57,M,B-,Pancreas,HLA-B,0,Tripura,vijayiyer2401@gmail.com,Max Medical Centre,Hepatitis
+R09418,Tanya Khan,50,F,A-,Cornea,HLA-A,1,Mizoram,tanyakhan879@gmail.com,NM Hospital Super Speciality Hospital,Thyroid disorder
+R00097,Neha Singh,42,F,O-,Kidney,HLA-A,2,Gujarat,nehasingh3147@gmail.com,Ruby Hall Clinic,Hepatitis
+R06682,Saanvi Gupta,27,F,AB-,Kidney,HLA-DR,1,Tripura,saanvigupta8526@gmail.com,Narayana Healthcare,Diabetes
+R01513,Suraj Gupta,23,M,AB-,Heart,HLA-A,1,Telangana,surajgupta1213@gmail.com,Care Clinic,Hypertension
+R08792,Sneha Jain,27,F,B-,Lung,HLA-A,1,Assam,snehajain3067@gmail.com,NM Hospital Clinic,Cardiac disease
+R00120,Neha Verma,6,F,AB+,Liver,HLA-A,2,Lakshadweep,nehaverma1460@gmail.com,Fortis Institute of Medical Sciences,None
+R07792,Pavitra Kapoor,54,F,O-,Heart,HLA-B,1,Haryana,pavitrakapoor5013@gmail.com,Manipal Healthcare,Previous surgery
+R06518,Tanya Jain,65,F,A-,Cornea,HLA-DR,0,Arunachal Pradesh,tanyajain6856@gmail.com,Max Clinic,Alcohol use
+R00034,Meera Joshi,43,F,B+,Liver,HLA-A,1,Delhi,meerajoshi4980@gmail.com,Max Healthcare,Previous surgery
+R07888,Aanya Mehta,27,F,O-,Lung,HLA-B,2,Arunachal Pradesh,aanyamehta3398@gmail.com,Medanta Super Speciality Hospital,None
+R06831,Rajesh Gupta,27,M,O+,Cornea,HLA-DR,0,Meghalaya,rajeshgupta8788@gmail.com,Sri Clinic,Obesity
+R05422,Suraj Joshi,17,M,B+,Lung,HLA-DR,0,Bihar,surajjoshi584@gmail.com,Ruby Hall Super Speciality Hospital,Diabetes
+R01069,Riya Banerjee,48,F,B-,Cornea,HLA-B,0,Uttar Pradesh,riyabanerjee9135@gmail.com,Global Healthcare,Hepatitis
+R01348,Pooja Nair,62,F,A+,Cornea,HLA-DR,2,Sikkim,poojanair9455@gmail.com,Sri Institute of Medical Sciences,Alcohol use
+R04748,Aditya Mehta,48,M,B-,Liver,HLA-A,0,Andaman and Nicobar Islands,adityamehta8353@gmail.com,NM Hospital Clinic,Alcohol use
+R06006,Saanvi Chowdhury,45,F,O+,Liver,HLA-A,0,Tamil Nadu,saanvichowdhury7878@gmail.com,Apollo Clinic,Previous surgery
+R06040,Sakshi Kapoor,5,F,AB-,Heart,HLA-B,1,Maharashtra,sakshikapoor9322@gmail.com,Kokilaben Medical Centre,Smoker
+R03818,Pooja Bose,50,F,O+,Kidney,HLA-A,1,Maharashtra,poojabose4136@gmail.com,Max Hospital,Obesity
+R08447,Suraj Sharma,15,M,AB+,Heart,HLA-B,2,Kerala,surajsharma5628@gmail.com,Columbia Asia Super Speciality Hospital,Allergy
+R05270,Kunal Joshi,8,M,B-,Liver,HLA-DR,2,Jharkhand,kunaljoshi113@gmail.com,Global Clinic,Thyroid disorder
+R06898,Aniket Chopra,66,M,A-,Cornea,HLA-DR,2,Gujarat,aniketchopra7557@gmail.com,NM Hospital Institute of Medical Sciences,Allergy
+R05310,Pavitra Mehta,47,F,B-,Liver,HLA-A,2,Madhya Pradesh,pavitramehta9709@gmail.com,Sri Healthcare,Hypertension
+R00032,Pavitra Reddy,71,F,AB+,Liver,HLA-DR,0,Meghalaya,pavitrareddy1184@gmail.com,NM Hospital Healthcare,Thyroid disorder
+R05675,Vijay Patel,73,M,A+,Lung,HLA-A,0,Meghalaya,vijaypatel6943@gmail.com,Apollo Clinic,Previous surgery
+R04387,Sneha Iyer,75,F,B+,Kidney,HLA-A,0,Gujarat,snehaiyer8854@gmail.com,Fortis Super Speciality Hospital,Hypertension
+R00030,Divya Ghosh,37,F,A+,Cornea,HLA-B,0,Chhattisgarh,divyaghosh9465@gmail.com,Medanta Hospital,Asthma
+R04203,Ananya Patel,65,F,A-,Pancreas,HLA-DR,0,Daman and Diu,ananyapatel4689@gmail.com,Kokilaben Healthcare,Hepatitis
+R07508,Aditya Reddy,42,M,A+,Liver,HLA-A,1,Andhra Pradesh,adityareddy8473@gmail.com,Narayana Hospital,Smoker
+R00736,Pavitra Singh,55,F,A-,Pancreas,HLA-B,0,Odisha,pavitrasingh9599@gmail.com,NM Hospital Institute of Medical Sciences,Alcohol use
+R02068,Aditya Gupta,49,M,O+,Lung,HLA-B,2,Lakshadweep,adityagupta8862@gmail.com,NM Hospital Medical Centre,Thyroid disorder
+R00107,Karan Iyer,9,M,AB-,Pancreas,HLA-A,0,Assam,karaniyer7865@gmail.com,AIIMS Clinic,Alcohol use
+R09645,Pavitra Joshi,36,F,B-,Kidney,HLA-DR,2,Chandigarh,pavitrajoshi6599@gmail.com,Max Hospital,Hypertension
+R08895,Vivaan Verma,11,M,O-,Pancreas,HLA-B,2,Himachal Pradesh,vivaanverma6165@gmail.com,Max Healthcare,Diabetes
+R08021,Anjali Bose,45,F,B-,Cornea,HLA-B,1,Arunachal Pradesh,anjalibose2956@gmail.com,NM Hospital Healthcare,Smoker
+R02233,Neha Sharma,67,F,O-,Lung,HLA-DR,2,Arunachal Pradesh,nehasharma8198@gmail.com,KIMS Super Speciality Hospital,Thyroid disorder
+R00994,Tanya Sharma,58,F,B+,Lung,HLA-DR,2,Nagaland,tanyasharma2509@gmail.com,Global Medical Centre,Asthma
+R09413,Vihaan Chopra,65,M,A-,Heart,HLA-A,0,Gujarat,vihaanchopra3886@gmail.com,Kokilaben Hospital,Alcohol use
+R07059,Neha Mehta,43,F,B-,Kidney,HLA-B,2,Tripura,nehamehta3421@gmail.com,Global Institute of Medical Sciences,Hypertension
+R06790,Aishwarya Mehta,57,F,B+,Lung,HLA-B,2,Lakshadweep,aishwaryamehta6065@gmail.com,Max Clinic,Chronic Kidney Disease
+R00361,Kunal Joshi,12,M,A-,Liver,HLA-A,2,Delhi,kunaljoshi3083@gmail.com,Medanta Super Speciality Hospital,Hepatitis
+R00305,Kavya Nair,61,F,B+,Liver,HLA-A,2,Haryana,kavyanair5801@gmail.com,Columbia Asia Super Speciality Hospital,Hepatitis
+R02628,Kunal Reddy,35,M,A+,Liver,HLA-A,0,Andaman and Nicobar Islands,kunalreddy1051@gmail.com,Manipal Medical Centre,Allergy
+R08966,Aanya Chowdhury,55,F,B-,Liver,HLA-B,0,Odisha,aanyachowdhury6314@gmail.com,Max Clinic,Cardiac disease
+R04514,Aanya Patel,55,F,B+,Lung,HLA-A,2,Punjab,aanyapatel7787@gmail.com,Columbia Asia Clinic,Thyroid disorder
+R05911,Saanvi Patel,40,F,A+,Lung,HLA-B,2,Tripura,saanvipatel1870@gmail.com,Medanta Hospital,Previous surgery
+R08314,Abhishek Verma,4,M,A+,Heart,HLA-B,2,Goa,abhishekverma3131@gmail.com,Care Healthcare,Smoker
+R03101,Pranav Jain,5,M,O-,Cornea,HLA-A,2,Sikkim,pranavjain6317@gmail.com,Ruby Hall Hospital,Allergy
+R05704,Isha Joshi,58,F,B+,Kidney,HLA-A,0,Kerala,ishajoshi9803@gmail.com,AIIMS Clinic,Diabetes
+R03899,Aditya Gupta,16,M,A+,Kidney,HLA-A,0,Haryana,adityagupta7339@gmail.com,Fortis Institute of Medical Sciences,Obesity
+R05441,Aanya Rao,52,F,A-,Pancreas,HLA-A,2,Himachal Pradesh,aanyarao9405@gmail.com,Narayana Super Speciality Hospital,Thyroid disorder
+R07931,Anjali Chopra,28,F,A-,Lung,HLA-DR,0,Sikkim,anjalichopra7657@gmail.com,AIIMS Hospital,None
+R00622,Vihaan Khan,63,M,AB-,Liver,HLA-A,0,Andaman and Nicobar Islands,vihaankhan872@gmail.com,Medanta Healthcare,Chronic Kidney Disease
+R07236,Pranav Nair,3,M,A+,Cornea,HLA-DR,1,Goa,pranavnair4763@gmail.com,Fortis Clinic,Cardiac disease
+R02499,Pavitra Rao,68,F,B+,Lung,HLA-A,0,Nagaland,pavitrarao145@gmail.com,Medanta Healthcare,Asthma
+R00714,Arjun Nair,18,M,B+,Heart,HLA-DR,2,Haryana,arjunnair4703@gmail.com,Apollo Hospital,Hepatitis
+R08404,Siddharth Kumar,51,M,AB-,Pancreas,HLA-A,1,Lakshadweep,siddharthkumar2752@gmail.com,KIMS Hospital,Chronic Kidney Disease
+R02856,Vivaan Reddy,61,M,A+,Heart,HLA-DR,0,Telangana,vivaanreddy3639@gmail.com,Narayana Medical Centre,Smoker
+R04270,Tanya Jain,37,F,A+,Pancreas,HLA-DR,1,Haryana,tanyajain244@gmail.com,NM Hospital Super Speciality Hospital,Allergy
+R02909,Sakshi Mehta,41,F,O+,Pancreas,HLA-A,1,Karnataka,sakshimehta3237@gmail.com,Ruby Hall Medical Centre,Alcohol use
+R08081,Siddharth Gupta,55,M,B-,Heart,HLA-A,1,Nagaland,siddharthgupta7201@gmail.com,Narayana Clinic,Cardiac disease
+R04517,Saanvi Chopra,34,F,O-,Lung,HLA-DR,1,Tamil Nadu,saanvichopra2959@gmail.com,Sri Clinic,Chronic Kidney Disease
+R01262,Vivaan Sharma,15,M,A-,Cornea,HLA-A,0,Lakshadweep,vivaansharma1028@gmail.com,Fortis Medical Centre,Obesity
+R03161,Pranav Sharma,60,M,O-,Lung,HLA-B,2,Ladakh,pranavsharma5275@gmail.com,KIMS Hospital,Obesity
+R00971,Nisha Ghosh,19,F,A-,Lung,HLA-DR,0,Mizoram,nishaghosh6034@gmail.com,KIMS Medical Centre,Obesity
+R03913,Arjun Patel,60,M,O+,Pancreas,HLA-A,1,Goa,arjunpatel5580@gmail.com,Ruby Hall Medical Centre,Hypertension
+R05199,Rajesh Gupta,62,M,A+,Pancreas,HLA-A,2,Meghalaya,rajeshgupta924@gmail.com,Sri Clinic,Diabetes
+R08847,Suraj Bose,33,M,O-,Pancreas,HLA-DR,1,Manipur,surajbose2885@gmail.com,KIMS Healthcare,Hypertension
+R00260,Meera Chowdhury,23,F,AB-,Pancreas,HLA-DR,2,Sikkim,meerachowdhury1137@gmail.com,Fortis Healthcare,Hepatitis
+R03791,Vivaan Kapoor,62,M,B-,Cornea,HLA-B,0,Daman and Diu,vivaankapoor5354@gmail.com,AIIMS Healthcare,Asthma
+R09203,Sakshi Patel,61,F,AB+,Lung,HLA-B,1,Manipur,sakshipatel8911@gmail.com,Apollo Hospital,Alcohol use
+R00488,Vihaan Patel,16,M,B+,Liver,HLA-B,2,Assam,vihaanpatel8297@gmail.com,Columbia Asia Hospital,Previous surgery
+R07908,Rajesh Reddy,26,M,O+,Pancreas,HLA-A,1,Goa,rajeshreddy3330@gmail.com,KIMS Medical Centre,Smoker
+R00519,Suraj Khan,75,M,A+,Pancreas,HLA-B,0,Maharashtra,surajkhan1407@gmail.com,Ruby Hall Institute of Medical Sciences,None
+R08343,Meera Bose,15,F,A+,Liver,HLA-A,2,Arunachal Pradesh,meerabose1943@gmail.com,Narayana Medical Centre,Diabetes
+R00312,Sakshi Sharma,14,F,O+,Cornea,HLA-B,0,Mizoram,sakshisharma3512@gmail.com,Apollo Medical Centre,Smoker
+R03232,Abhishek Patel,32,M,B-,Cornea,HLA-DR,0,Andhra Pradesh,abhishekpatel9924@gmail.com,Narayana Super Speciality Hospital,Smoker
+R07933,Pooja Ghosh,60,F,AB+,Cornea,HLA-DR,1,Mizoram,poojaghosh9257@gmail.com,Fortis Institute of Medical Sciences,Alcohol use
+R07458,Pooja Iyer,64,F,B+,Cornea,HLA-A,1,Karnataka,poojaiyer975@gmail.com,Medanta Medical Centre,Allergy
+R09784,Vihaan Kapoor,54,M,A+,Pancreas,HLA-A,0,Goa,vihaankapoor328@gmail.com,Narayana Medical Centre,Chronic Kidney Disease
+R05184,Aniket Rao,75,M,AB-,Lung,HLA-B,0,Gujarat,aniketrao5287@gmail.com,Apollo Healthcare,Diabetes
+R08077,Aishwarya Sharma,74,F,B-,Liver,HLA-DR,2,Uttar Pradesh,aishwaryasharma6673@gmail.com,Global Hospital,None
+R06502,Isha Reddy,40,F,O+,Pancreas,HLA-A,2,Uttarakhand,ishareddy7219@gmail.com,Max Super Speciality Hospital,Chronic Kidney Disease
+R06791,Shruti Jain,72,F,A-,Heart,HLA-B,0,Rajasthan,shrutijain6332@gmail.com,Medanta Hospital,Chronic Kidney Disease
+R07773,Ananya Kumar,48,F,O-,Cornea,HLA-A,1,Haryana,ananyakumar2276@gmail.com,Care Healthcare,Cardiac disease
+R02738,Aishwarya Chopra,36,F,A-,Kidney,HLA-B,1,Tripura,aishwaryachopra6712@gmail.com,Columbia Asia Healthcare,Obesity
+R07842,Aniket Chopra,10,M,O+,Pancreas,HLA-DR,1,Uttarakhand,aniketchopra3102@gmail.com,Columbia Asia Clinic,Cardiac disease
+R06262,Rajesh Chowdhury,68,M,AB+,Kidney,HLA-A,0,Uttarakhand,rajeshchowdhury624@gmail.com,Care Institute of Medical Sciences,Allergy
+R08206,Deepika Ghosh,7,F,AB+,Lung,HLA-A,1,Gujarat,deepikaghosh8321@gmail.com,Narayana Super Speciality Hospital,Allergy
+R01248,Aniket Rao,23,M,B+,Lung,HLA-DR,0,Arunachal Pradesh,aniketrao6086@gmail.com,Ruby Hall Healthcare,Chronic Kidney Disease
+R09336,Sneha Chowdhury,15,F,O+,Heart,HLA-DR,1,Haryana,snehachowdhury9967@gmail.com,Care Super Speciality Hospital,Chronic Kidney Disease
+R04195,Sakshi Reddy,7,F,O-,Pancreas,HLA-B,2,Assam,sakshireddy8140@gmail.com,Columbia Asia Healthcare,Hypertension
+R08001,Saanvi Jain,50,F,O-,Pancreas,HLA-DR,1,Lakshadweep,saanvijain9609@gmail.com,Medanta Healthcare,Diabetes
+R07378,Rohan Reddy,11,M,O+,Liver,HLA-DR,0,Nagaland,rohanreddy2137@gmail.com,Sri Super Speciality Hospital,Diabetes
+R03435,Suraj Iyer,53,M,O+,Liver,HLA-B,1,Himachal Pradesh,surajiyer590@gmail.com,Care Healthcare,Hepatitis
+R05382,Meera Gupta,24,F,B+,Cornea,HLA-A,2,Jammu and Kashmir,meeragupta4068@gmail.com,Medanta Medical Centre,Hypertension
+R00959,Tanya Kumar,3,F,AB+,Lung,HLA-A,1,Odisha,tanyakumar5562@gmail.com,Columbia Asia Institute of Medical Sciences,None
+R00417,Amit Kapoor,4,M,O-,Liver,HLA-DR,0,West Bengal,amitkapoor214@gmail.com,Manipal Clinic,Allergy
+R05742,Pavitra Chopra,28,F,O+,Kidney,HLA-DR,2,Assam,pavitrachopra1189@gmail.com,Narayana Medical Centre,Chronic Kidney Disease
+R06728,Vihaan Singh,58,M,B+,Liver,HLA-DR,2,Himachal Pradesh,vihaansingh3960@gmail.com,Manipal Institute of Medical Sciences,Smoker
+R04382,Manish Khan,35,M,AB+,Pancreas,HLA-B,2,Chhattisgarh,manishkhan7054@gmail.com,Manipal Clinic,Smoker
+R05197,Neha Sharma,37,F,O+,Liver,HLA-A,1,Daman and Diu,nehasharma4581@gmail.com,Care Super Speciality Hospital,Cardiac disease
+R01113,Aanya Kapoor,59,F,B-,Cornea,HLA-DR,0,Jharkhand,aanyakapoor2078@gmail.com,Care Medical Centre,Chronic Kidney Disease
+R02689,Shruti Mehta,14,F,AB-,Cornea,HLA-B,2,Ladakh,shrutimehta4612@gmail.com,Ruby Hall Healthcare,Hepatitis
+R06473,Amit Khan,25,M,B+,Heart,HLA-A,2,Lakshadweep,amitkhan4682@gmail.com,KIMS Super Speciality Hospital,Previous surgery
+R08820,Rajesh Iyer,39,M,A-,Lung,HLA-B,2,Mizoram,rajeshiyer8777@gmail.com,Kokilaben Institute of Medical Sciences,Alcohol use
+R07808,Suraj Mehta,32,M,B+,Cornea,HLA-B,1,Daman and Diu,surajmehta9578@gmail.com,Global Super Speciality Hospital,Thyroid disorder
+R03411,Abhishek Bose,45,M,B+,Pancreas,HLA-B,2,Chhattisgarh,abhishekbose9098@gmail.com,Global Healthcare,Alcohol use
+R00081,Vihaan Bose,63,M,B+,Kidney,HLA-A,0,Himachal Pradesh,vihaanbose4713@gmail.com,Care Super Speciality Hospital,Asthma
+R04614,Vivaan Rao,14,M,B+,Pancreas,HLA-DR,2,Madhya Pradesh,vivaanrao7561@gmail.com,Columbia Asia Hospital,Obesity
+R01374,Suraj Nair,30,M,B+,Lung,HLA-A,0,Punjab,surajnair2442@gmail.com,Kokilaben Hospital,Thyroid disorder
+R01510,Priya Chopra,8,F,A-,Cornea,HLA-A,0,Lakshadweep,priyachopra1618@gmail.com,Fortis Institute of Medical Sciences,Chronic Kidney Disease
+R06443,Vivaan Mehta,41,M,B-,Lung,HLA-A,1,Ladakh,vivaanmehta3349@gmail.com,KIMS Hospital,Alcohol use
+R03071,Rohan Bose,41,M,B-,Liver,HLA-A,1,Chhattisgarh,rohanbose9276@gmail.com,Columbia Asia Super Speciality Hospital,Hypertension
+R03016,Riya Khan,60,F,AB+,Pancreas,HLA-A,0,Arunachal Pradesh,riyakhan3786@gmail.com,Columbia Asia Healthcare,Previous surgery
+R04823,Isha Kumar,19,F,O+,Kidney,HLA-B,1,Assam,ishakumar3488@gmail.com,Global Clinic,Previous surgery
+R07822,Siddharth Mehta,61,M,O-,Heart,HLA-B,2,Mizoram,siddharthmehta9244@gmail.com,Apollo Clinic,Cardiac disease
+R00093,Rajesh Jain,67,M,A-,Heart,HLA-A,0,Puducherry,rajeshjain4124@gmail.com,Sri Clinic,Hypertension
+R09421,Abhishek Banerjee,52,M,B+,Heart,HLA-DR,1,Tripura,abhishekbanerjee9693@gmail.com,Columbia Asia Hospital,Diabetes
+R06600,Aditya Ghosh,16,M,O+,Heart,HLA-B,1,Chandigarh,adityaghosh4870@gmail.com,Apollo Clinic,None
+R04443,Sakshi Patel,41,F,O+,Pancreas,HLA-A,1,Manipur,sakshipatel5114@gmail.com,KIMS Clinic,Hypertension
+R07602,Tanya Chopra,49,F,A-,Kidney,HLA-B,2,Madhya Pradesh,tanyachopra5955@gmail.com,KIMS Clinic,Allergy
+R03835,Priya Joshi,67,F,AB+,Kidney,HLA-DR,1,Punjab,priyajoshi7042@gmail.com,Care Healthcare,Chronic Kidney Disease
+R09702,Ananya Sharma,3,F,A-,Heart,HLA-B,2,Rajasthan,ananyasharma2221@gmail.com,KIMS Institute of Medical Sciences,None
+R04322,Nisha Mehta,22,F,B-,Kidney,HLA-A,1,Chhattisgarh,nishamehta1280@gmail.com,Ruby Hall Super Speciality Hospital,Chronic Kidney Disease
+R03394,Amit Iyer,47,M,B-,Cornea,HLA-DR,1,West Bengal,amitiyer7603@gmail.com,Max Institute of Medical Sciences,Hypertension
+R04752,Kunal Gupta,63,M,AB+,Kidney,HLA-DR,0,Chandigarh,kunalgupta7608@gmail.com,Ruby Hall Medical Centre,Thyroid disorder
+R07229,Pooja Singh,34,F,O-,Heart,HLA-DR,2,Andhra Pradesh,poojasingh2373@gmail.com,Fortis Medical Centre,Thyroid disorder
+R09191,Rahul Singh,9,M,AB+,Pancreas,HLA-DR,1,Sikkim,rahulsingh1561@gmail.com,Sri Medical Centre,None
+R02361,Riya Chopra,60,F,A+,Kidney,HLA-DR,2,Maharashtra,riyachopra5620@gmail.com,Sri Institute of Medical Sciences,None
+R01148,Kunal Khan,3,M,O-,Kidney,HLA-A,1,Gujarat,kunalkhan5132@gmail.com,Medanta Institute of Medical Sciences,Hepatitis
+R05666,Karan Joshi,68,M,AB-,Lung,HLA-B,1,Haryana,karanjoshi3098@gmail.com,Global Institute of Medical Sciences,Smoker
+R08075,Amit Ghosh,58,M,AB-,Heart,HLA-DR,1,Uttar Pradesh,amitghosh7306@gmail.com,Sri Super Speciality Hospital,Alcohol use
+R04943,Shruti Bose,53,F,A+,Lung,HLA-DR,1,Lakshadweep,shrutibose4751@gmail.com,Max Institute of Medical Sciences,Obesity
+R03663,Neha Patel,20,F,O-,Pancreas,HLA-DR,1,Lakshadweep,nehapatel5902@gmail.com,Global Institute of Medical Sciences,Obesity
+R01563,Aniket Iyer,37,M,A+,Liver,HLA-B,1,Telangana,aniketiyer9770@gmail.com,Global Healthcare,Asthma
+R04113,Sanjay Singh,18,M,B+,Heart,HLA-B,2,Tamil Nadu,sanjaysingh6014@gmail.com,Global Healthcare,Chronic Kidney Disease
+R09050,Sanjay Kumar,66,M,O-,Liver,HLA-DR,1,Arunachal Pradesh,sanjaykumar766@gmail.com,Manipal Medical Centre,Hepatitis
+R09276,Anjali Verma,54,F,O-,Kidney,HLA-A,2,Himachal Pradesh,anjaliverma5829@gmail.com,Medanta Institute of Medical Sciences,Chronic Kidney Disease
+R08538,Yash Banerjee,74,M,B-,Kidney,HLA-DR,2,West Bengal,yashbanerjee4355@gmail.com,NM Hospital Hospital,Obesity
+R00795,Pavitra Singh,13,F,AB+,Lung,HLA-DR,0,Jharkhand,pavitrasingh1177@gmail.com,Medanta Medical Centre,Obesity
+R05854,Siddharth Khan,9,M,O-,Lung,HLA-B,0,Andaman and Nicobar Islands,siddharthkhan3626@gmail.com,Max Hospital,Alcohol use
+R07619,Kavya Chowdhury,6,F,A-,Lung,HLA-DR,1,Punjab,kavyachowdhury1379@gmail.com,Narayana Medical Centre,Allergy
+R01594,Kunal Rao,46,M,AB-,Heart,HLA-A,1,Jammu and Kashmir,kunalrao4287@gmail.com,Columbia Asia Healthcare,None
+R07418,Rahul Verma,35,M,A-,Heart,HLA-DR,2,Meghalaya,rahulverma5452@gmail.com,Global Clinic,Allergy
+R05267,Priya Iyer,53,F,O+,Kidney,HLA-B,0,Andaman and Nicobar Islands,priyaiyer7720@gmail.com,Manipal Institute of Medical Sciences,Hepatitis
+R07147,Karan Banerjee,51,M,AB-,Cornea,HLA-A,0,Andaman and Nicobar Islands,karanbanerjee5913@gmail.com,Kokilaben Super Speciality Hospital,Allergy
+R00089,Rajesh Jain,10,M,A+,Lung,HLA-A,1,Andaman and Nicobar Islands,rajeshjain9813@gmail.com,Columbia Asia Healthcare,Alcohol use
+R08695,Rohan Joshi,9,M,AB-,Cornea,HLA-DR,2,Tamil Nadu,rohanjoshi3972@gmail.com,AIIMS Super Speciality Hospital,Asthma
+R09732,Pranav Khan,69,M,A-,Cornea,HLA-B,1,Tamil Nadu,pranavkhan9535@gmail.com,Fortis Super Speciality Hospital,Chronic Kidney Disease
+R09446,Vijay Singh,55,M,B+,Pancreas,HLA-A,1,West Bengal,vijaysingh9737@gmail.com,NM Hospital Institute of Medical Sciences,Obesity
+R06754,Vivaan Nair,9,M,A-,Cornea,HLA-A,2,Punjab,vivaannair4613@gmail.com,Apollo Healthcare,Diabetes
+R03502,Saanvi Singh,38,F,B-,Kidney,HLA-B,0,Chhattisgarh,saanvisingh7097@gmail.com,NM Hospital Hospital,None
+R02234,Yash Gupta,69,M,A-,Pancreas,HLA-DR,0,Andhra Pradesh,yashgupta7938@gmail.com,Care Hospital,Asthma
+R02803,Anjali Jain,72,F,B-,Pancreas,HLA-DR,1,Chhattisgarh,anjalijain9497@gmail.com,Sri Clinic,Previous surgery
+R04424,Meera Bose,17,F,AB-,Lung,HLA-B,0,Goa,meerabose420@gmail.com,Medanta Medical Centre,Smoker
+R05663,Anjali Patel,18,F,O+,Kidney,HLA-B,1,Karnataka,anjalipatel3681@gmail.com,Ruby Hall Super Speciality Hospital,Asthma
+R07170,Aarav Patel,4,M,O+,Heart,HLA-B,0,Sikkim,aaravpatel4556@gmail.com,Manipal Hospital,Thyroid disorder
+R08337,Divya Khan,72,F,O-,Cornea,HLA-B,0,Delhi,divyakhan2907@gmail.com,KIMS Hospital,Obesity
+R02148,Aniket Sharma,64,M,O-,Heart,HLA-DR,0,Rajasthan,aniketsharma9821@gmail.com,Max Clinic,Hepatitis
+R07969,Ananya Khan,16,F,AB-,Pancreas,HLA-B,0,Tripura,ananyakhan6702@gmail.com,Apollo Super Speciality Hospital,Hypertension
+R06551,Abhishek Khan,53,M,B+,Cornea,HLA-B,0,Chandigarh,abhishekkhan8027@gmail.com,Sri Clinic,Previous surgery
+R07643,Ananya Ghosh,27,F,O+,Liver,HLA-A,2,Delhi,ananyaghosh3224@gmail.com,Columbia Asia Institute of Medical Sciences,Hypertension
+R06164,Anjali Gupta,11,F,O-,Liver,HLA-A,2,Odisha,anjaligupta9564@gmail.com,Medanta Hospital,Chronic Kidney Disease
+R01495,Kavya Bose,74,F,O+,Lung,HLA-A,2,Haryana,kavyabose6811@gmail.com,Apollo Clinic,Obesity
+R07696,Kunal Banerjee,55,M,B+,Kidney,HLA-A,2,Chandigarh,kunalbanerjee46@gmail.com,NM Hospital Hospital,Cardiac disease
+R07094,Priya Banerjee,4,F,O+,Heart,HLA-DR,1,Nagaland,priyabanerjee9804@gmail.com,Fortis Institute of Medical Sciences,None
+R01409,Abhishek Mehta,65,M,B-,Cornea,HLA-DR,1,Telangana,abhishekmehta2097@gmail.com,Global Hospital,Cardiac disease
+R06691,Arjun Chopra,33,M,AB-,Cornea,HLA-DR,0,Rajasthan,arjunchopra6805@gmail.com,Global Hospital,Obesity
+R03401,Pranav Nair,1,M,AB+,Liver,HLA-DR,0,Jharkhand,pranavnair1297@gmail.com,Ruby Hall Medical Centre,Allergy
+R00109,Tanya Ghosh,41,F,A-,Liver,HLA-DR,0,Uttar Pradesh,tanyaghosh2524@gmail.com,Narayana Hospital,Hepatitis
+R05636,Vihaan Mehta,71,M,AB+,Cornea,HLA-B,2,Bihar,vihaanmehta4778@gmail.com,Columbia Asia Hospital,None
+R08482,Neha Sharma,60,F,AB+,Kidney,HLA-DR,1,Odisha,nehasharma8202@gmail.com,Global Super Speciality Hospital,Allergy
+R06604,Tanya Kumar,20,F,AB-,Kidney,HLA-DR,1,Ladakh,tanyakumar768@gmail.com,Care Super Speciality Hospital,Smoker
+R01091,Aanya Joshi,49,F,O+,Pancreas,HLA-B,2,Manipur,aanyajoshi3276@gmail.com,Sri Super Speciality Hospital,Hypertension
+R05560,Vihaan Reddy,4,M,AB+,Kidney,HLA-B,0,Karnataka,vihaanreddy1831@gmail.com,Kokilaben Institute of Medical Sciences,Allergy
+R09412,Neha Sharma,5,F,AB-,Lung,HLA-DR,2,Haryana,nehasharma7592@gmail.com,Fortis Medical Centre,Asthma
+R08143,Suraj Jain,57,M,O+,Heart,HLA-B,2,Telangana,surajjain1565@gmail.com,Care Clinic,Asthma
+R08664,Tanya Sharma,63,F,O-,Kidney,HLA-A,0,Arunachal Pradesh,tanyasharma314@gmail.com,Medanta Medical Centre,Smoker
+R06596,Shruti Rao,68,F,AB+,Heart,HLA-DR,0,Goa,shrutirao3136@gmail.com,Apollo Medical Centre,Cardiac disease
+R00624,Aditya Sharma,5,M,O+,Pancreas,HLA-DR,0,Gujarat,adityasharma2964@gmail.com,Global Medical Centre,Obesity
+R06871,Pranav Nair,61,M,B-,Pancreas,HLA-A,2,Chhattisgarh,pranavnair6279@gmail.com,Manipal Medical Centre,Chronic Kidney Disease
+R04814,Aanya Patel,23,F,AB+,Heart,HLA-DR,2,Dadra and Nagar Haveli,aanyapatel4793@gmail.com,NM Hospital Medical Centre,Allergy
+R06553,Shruti Singh,45,F,AB-,Cornea,HLA-A,0,Maharashtra,shrutisingh4564@gmail.com,Kokilaben Institute of Medical Sciences,Allergy
+R07530,Saanvi Reddy,67,F,O+,Cornea,HLA-A,2,Meghalaya,saanvireddy3913@gmail.com,Global Healthcare,Diabetes
+R05796,Rohan Iyer,29,M,A+,Liver,HLA-DR,0,Andaman and Nicobar Islands,rohaniyer4519@gmail.com,Max Hospital,Previous surgery
+R07437,Nisha Joshi,39,F,B+,Cornea,HLA-DR,0,Puducherry,nishajoshi7429@gmail.com,Apollo Institute of Medical Sciences,Allergy
+R04218,Vijay Reddy,29,M,B+,Kidney,HLA-B,1,Manipur,vijayreddy6895@gmail.com,Narayana Institute of Medical Sciences,Hypertension
+R05941,Vihaan Mehta,61,M,AB-,Pancreas,HLA-A,2,Kerala,vihaanmehta6511@gmail.com,Global Institute of Medical Sciences,Cardiac disease
+R08501,Divya Kapoor,68,F,AB+,Kidney,HLA-DR,2,Puducherry,divyakapoor8527@gmail.com,Medanta Hospital,Diabetes
+R06429,Isha Chowdhury,69,F,B+,Heart,HLA-B,2,Meghalaya,ishachowdhury4952@gmail.com,Care Healthcare,Hypertension
+R06827,Tanya Banerjee,21,F,A+,Heart,HLA-DR,0,Andaman and Nicobar Islands,tanyabanerjee719@gmail.com,Max Super Speciality Hospital,Alcohol use
+R04131,Sneha Iyer,36,F,B+,Cornea,HLA-B,2,Dadra and Nagar Haveli,snehaiyer5694@gmail.com,Narayana Hospital,Hepatitis
+R07802,Vijay Kapoor,32,M,B-,Heart,HLA-A,1,Nagaland,vijaykapoor8003@gmail.com,Apollo Medical Centre,Previous surgery
+R07754,Ananya Verma,28,F,AB-,Lung,HLA-A,1,Jammu and Kashmir,ananyaverma2829@gmail.com,Fortis Medical Centre,Previous surgery
+R04722,Amit Rao,9,M,A+,Kidney,HLA-DR,1,Tripura,amitrao2313@gmail.com,AIIMS Institute of Medical Sciences,Cardiac disease
+R01651,Aarav Kumar,74,M,AB+,Heart,HLA-A,0,Jharkhand,aaravkumar3575@gmail.com,Sri Clinic,Smoker
+R04141,Pranav Kumar,11,M,B-,Liver,HLA-DR,1,Goa,pranavkumar4960@gmail.com,Care Super Speciality Hospital,Smoker
+R01618,Divya Patel,48,F,AB+,Pancreas,HLA-DR,2,Jharkhand,divyapatel5507@gmail.com,Care Medical Centre,Obesity
+R02030,Suraj Banerjee,18,M,AB+,Liver,HLA-DR,2,Tamil Nadu,surajbanerjee3@gmail.com,Global Hospital,Asthma
+R08518,Sakshi Verma,45,F,AB-,Kidney,HLA-B,0,Telangana,sakshiverma845@gmail.com,Care Institute of Medical Sciences,Previous surgery
+R04576,Rahul Jain,39,M,B+,Pancreas,HLA-DR,0,Rajasthan,rahuljain4670@gmail.com,Sri Clinic,Thyroid disorder
+R03993,Vivaan Bose,10,M,A-,Kidney,HLA-DR,1,Mizoram,vivaanbose5927@gmail.com,Max Super Speciality Hospital,Cardiac disease
+R07377,Nisha Rao,4,F,AB+,Cornea,HLA-B,2,Kerala,nisharao7631@gmail.com,Medanta Healthcare,Diabetes
+R06150,Deepika Reddy,24,F,AB+,Lung,HLA-B,0,Ladakh,deepikareddy1850@gmail.com,Fortis Medical Centre,Previous surgery
+R04909,Priya Iyer,72,F,B-,Liver,HLA-B,1,Bihar,priyaiyer6159@gmail.com,Max Institute of Medical Sciences,Allergy
+R05027,Sanjay Mehta,31,M,B-,Liver,HLA-B,2,Rajasthan,sanjaymehta3066@gmail.com,Kokilaben Clinic,Previous surgery
+R08261,Amit Banerjee,57,M,B-,Heart,HLA-A,2,Jharkhand,amitbanerjee7807@gmail.com,Narayana Clinic,Hypertension
+R04732,Aishwarya Kapoor,75,F,A+,Kidney,HLA-B,1,Maharashtra,aishwaryakapoor5395@gmail.com,Max Clinic,Alcohol use
+R07549,Sneha Sharma,10,F,O+,Lung,HLA-B,2,Nagaland,snehasharma260@gmail.com,KIMS Hospital,Chronic Kidney Disease
+R08135,Manish Jain,58,M,O-,Cornea,HLA-B,2,Gujarat,manishjain9569@gmail.com,Medanta Hospital,Alcohol use
+R01607,Yash Verma,19,M,O-,Heart,HLA-A,0,Arunachal Pradesh,yashverma3522@gmail.com,Sri Institute of Medical Sciences,Hypertension
+R04774,Manish Chopra,60,M,AB-,Kidney,HLA-A,1,Nagaland,manishchopra1253@gmail.com,Columbia Asia Hospital,Diabetes
+R08110,Ananya Khan,10,F,O+,Liver,HLA-A,2,Arunachal Pradesh,ananyakhan1135@gmail.com,AIIMS Hospital,Cardiac disease
+R06952,Vihaan Gupta,14,M,AB-,Cornea,HLA-DR,2,Telangana,vihaangupta6632@gmail.com,Medanta Institute of Medical Sciences,None
+R06005,Yash Mehta,41,M,O-,Lung,HLA-DR,0,Jharkhand,yashmehta2103@gmail.com,Kokilaben Medical Centre,Asthma
+R07729,Vivaan Chowdhury,62,M,B-,Cornea,HLA-DR,1,Himachal Pradesh,vivaanchowdhury7607@gmail.com,Manipal Hospital,Smoker
+R03542,Aarav Patel,41,M,A-,Lung,HLA-A,1,Jharkhand,aaravpatel1800@gmail.com,Max Healthcare,Hepatitis
+R00389,Sakshi Kapoor,74,F,A-,Liver,HLA-A,1,Andaman and Nicobar Islands,sakshikapoor3422@gmail.com,NM Hospital Healthcare,Hepatitis
+R01795,Kavya Gupta,23,F,B-,Pancreas,HLA-DR,1,Lakshadweep,kavyagupta4528@gmail.com,Manipal Hospital,Hepatitis
+R08732,Rahul Jain,61,M,A+,Cornea,HLA-B,2,Rajasthan,rahuljain731@gmail.com,Narayana Medical Centre,Previous surgery
+R04920,Vihaan Bose,33,M,AB+,Cornea,HLA-B,0,Daman and Diu,vihaanbose6120@gmail.com,Manipal Healthcare,Asthma
+R05538,Pranav Kumar,7,M,AB+,Cornea,HLA-DR,2,Kerala,pranavkumar9084@gmail.com,KIMS Clinic,Asthma
+R03873,Tanya Iyer,19,F,O+,Lung,HLA-A,0,Andhra Pradesh,tanyaiyer9924@gmail.com,Manipal Medical Centre,Alcohol use
+R08869,Aanya Mehta,16,F,B-,Heart,HLA-DR,2,Assam,aanyamehta5842@gmail.com,Ruby Hall Hospital,Obesity
+R02255,Ananya Ghosh,6,F,O-,Heart,HLA-B,1,Ladakh,ananyaghosh4093@gmail.com,Narayana Super Speciality Hospital,Smoker
+R03413,Vihaan Jain,60,M,O-,Heart,HLA-DR,2,Assam,vihaanjain104@gmail.com,Narayana Clinic,Chronic Kidney Disease
+R05460,Priya Ghosh,59,F,O+,Kidney,HLA-B,0,Kerala,priyaghosh2652@gmail.com,Care Hospital,Alcohol use
+R04956,Shruti Chowdhury,64,F,AB+,Heart,HLA-DR,1,Puducherry,shrutichowdhury657@gmail.com,Manipal Healthcare,Obesity
+R07397,Aanya Verma,70,F,A+,Pancreas,HLA-A,2,Nagaland,aanyaverma6082@gmail.com,Apollo Clinic,Chronic Kidney Disease
+R05415,Arjun Nair,19,M,O-,Cornea,HLA-A,1,Mizoram,arjunnair7298@gmail.com,Kokilaben Hospital,Obesity
+R07400,Aarav Kumar,19,M,AB+,Heart,HLA-DR,0,Mizoram,aaravkumar6491@gmail.com,Apollo Healthcare,Chronic Kidney Disease
+R07415,Divya Gupta,44,F,A+,Lung,HLA-B,2,Chhattisgarh,divyagupta242@gmail.com,Fortis Clinic,Alcohol use
+R09101,Kunal Mehta,70,M,B+,Pancreas,HLA-DR,2,Karnataka,kunalmehta3626@gmail.com,Manipal Super Speciality Hospital,Diabetes
+R04852,Anjali Ghosh,27,F,O+,Pancreas,HLA-A,2,Mizoram,anjalighosh8277@gmail.com,Fortis Super Speciality Hospital,Asthma
+R02026,Sneha Singh,62,F,AB-,Heart,HLA-B,0,Maharashtra,snehasingh7153@gmail.com,Apollo Super Speciality Hospital,Diabetes
+R02616,Rajesh Nair,32,M,A-,Heart,HLA-B,0,Arunachal Pradesh,rajeshnair6554@gmail.com,Ruby Hall Medical Centre,Hepatitis
+R07389,Karan Kapoor,1,M,O-,Lung,HLA-B,2,Uttar Pradesh,karankapoor9255@gmail.com,Ruby Hall Medical Centre,Hepatitis
+R02927,Yash Sharma,53,M,B-,Pancreas,HLA-A,2,Chandigarh,yashsharma6628@gmail.com,AIIMS Medical Centre,Thyroid disorder
+R01122,Aarav Mehta,75,M,O+,Kidney,HLA-A,1,Mizoram,aaravmehta4849@gmail.com,Manipal Clinic,Asthma
+R02911,Pranav Ghosh,53,M,B-,Liver,HLA-DR,1,Arunachal Pradesh,pranavghosh5228@gmail.com,Global Hospital,Smoker
+R08147,Priya Sharma,61,F,AB-,Kidney,HLA-B,0,Karnataka,priyasharma1177@gmail.com,Columbia Asia Clinic,Chronic Kidney Disease
+R07384,Nisha Kumar,67,F,AB-,Cornea,HLA-B,0,Haryana,nishakumar5294@gmail.com,Manipal Hospital,Chronic Kidney Disease
+R03483,Deepika Reddy,25,F,O-,Kidney,HLA-DR,0,Karnataka,deepikareddy8246@gmail.com,Narayana Medical Centre,Cardiac disease
+R00796,Suraj Khan,63,M,B-,Heart,HLA-A,2,Delhi,surajkhan8812@gmail.com,Sri Hospital,Allergy
+R01576,Saanvi Chopra,9,F,O-,Lung,HLA-B,1,Jharkhand,saanvichopra4537@gmail.com,Medanta Clinic,None
+R06177,Shruti Ghosh,25,F,B-,Liver,HLA-B,1,Nagaland,shrutighosh5923@gmail.com,Columbia Asia Clinic,Smoker
+R06267,Vivaan Khan,17,M,AB-,Cornea,HLA-B,2,Delhi,vivaankhan6653@gmail.com,Apollo Medical Centre,Previous surgery
+R02459,Suraj Gupta,56,M,B-,Liver,HLA-B,0,Haryana,surajgupta8877@gmail.com,NM Hospital Hospital,Smoker
+R03313,Riya Verma,55,F,O-,Liver,HLA-B,1,Odisha,riyaverma2181@gmail.com,AIIMS Institute of Medical Sciences,Thyroid disorder
+R01254,Kunal Kapoor,26,M,AB+,Kidney,HLA-B,2,Delhi,kunalkapoor9480@gmail.com,Medanta Clinic,Chronic Kidney Disease
+R06835,Pavitra Rao,19,F,O-,Lung,HLA-DR,0,Madhya Pradesh,pavitrarao5976@gmail.com,Ruby Hall Medical Centre,Alcohol use
+R08795,Vihaan Reddy,57,M,AB-,Kidney,HLA-B,0,Lakshadweep,vihaanreddy4284@gmail.com,KIMS Super Speciality Hospital,Alcohol use
+R03838,Pavitra Chowdhury,65,F,B-,Liver,HLA-B,2,Himachal Pradesh,pavitrachowdhury4084@gmail.com,Fortis Hospital,Asthma
+R04399,Anjali Iyer,47,F,B+,Pancreas,HLA-B,1,Karnataka,anjaliiyer5173@gmail.com,AIIMS Super Speciality Hospital,Chronic Kidney Disease
+R03596,Isha Chopra,22,F,O-,Pancreas,HLA-A,2,West Bengal,ishachopra4448@gmail.com,AIIMS Super Speciality Hospital,Thyroid disorder
+R06622,Pooja Chowdhury,47,F,O-,Lung,HLA-B,2,Bihar,poojachowdhury2787@gmail.com,Columbia Asia Medical Centre,Alcohol use
+R08383,Tanya Khan,70,F,B+,Pancreas,HLA-B,2,Nagaland,tanyakhan5821@gmail.com,Manipal Medical Centre,Cardiac disease
+R02125,Rajesh Joshi,40,M,B+,Heart,HLA-B,2,Sikkim,rajeshjoshi1431@gmail.com,Sri Institute of Medical Sciences,Allergy
+R03239,Abhishek Kapoor,58,M,A-,Liver,HLA-DR,2,Arunachal Pradesh,abhishekkapoor845@gmail.com,Kokilaben Clinic,Alcohol use
+R05404,Priya Mehta,8,F,AB+,Liver,HLA-DR,1,West Bengal,priyamehta8076@gmail.com,Narayana Hospital,Previous surgery
+R05999,Anjali Bose,36,F,AB-,Pancreas,HLA-B,0,Himachal Pradesh,anjalibose9374@gmail.com,AIIMS Healthcare,Diabetes
+R05939,Anjali Kumar,21,F,AB+,Kidney,HLA-B,0,Uttar Pradesh,anjalikumar2608@gmail.com,Global Institute of Medical Sciences,Thyroid disorder
+R02046,Aditya Reddy,46,M,AB-,Heart,HLA-A,2,Mizoram,adityareddy2020@gmail.com,Apollo Hospital,Thyroid disorder
+R01579,Arjun Iyer,62,M,AB-,Kidney,HLA-DR,0,Tripura,arjuniyer7427@gmail.com,Sri Hospital,Allergy
+R00015,Aniket Chowdhury,71,M,A+,Heart,HLA-B,1,Manipur,aniketchowdhury5590@gmail.com,Ruby Hall Institute of Medical Sciences,Chronic Kidney Disease
+R02674,Siddharth Chowdhury,68,M,B+,Pancreas,HLA-DR,0,Dadra and Nagar Haveli,siddharthchowdhury7941@gmail.com,Narayana Institute of Medical Sciences,None
+R07017,Sanjay Sharma,8,M,O-,Kidney,HLA-DR,0,Mizoram,sanjaysharma6486@gmail.com,KIMS Healthcare,None
+R08721,Aniket Joshi,49,M,AB-,Pancreas,HLA-A,2,Delhi,aniketjoshi3533@gmail.com,Apollo Clinic,None
+R08850,Sneha Joshi,25,F,A-,Cornea,HLA-B,0,Tripura,snehajoshi716@gmail.com,Columbia Asia Institute of Medical Sciences,None
+R04813,Aanya Reddy,74,F,AB-,Cornea,HLA-DR,2,Himachal Pradesh,aanyareddy3565@gmail.com,Fortis Hospital,Chronic Kidney Disease
+R01085,Yash Jain,6,M,AB-,Lung,HLA-DR,1,Manipur,yashjain1907@gmail.com,Max Institute of Medical Sciences,Cardiac disease
+R04984,Saanvi Kapoor,18,F,B+,Pancreas,HLA-DR,1,Chandigarh,saanvikapoor5496@gmail.com,Manipal Institute of Medical Sciences,None
+R07156,Arjun Bose,30,M,B+,Lung,HLA-B,1,Uttar Pradesh,arjunbose8493@gmail.com,KIMS Healthcare,Smoker
+R02885,Amit Ghosh,73,M,O-,Pancreas,HLA-A,2,Mizoram,amitghosh5187@gmail.com,Max Institute of Medical Sciences,Hepatitis
+R00334,Isha Reddy,51,F,B-,Liver,HLA-A,0,Puducherry,ishareddy2912@gmail.com,Narayana Super Speciality Hospital,Hepatitis
+R07205,Divya Reddy,51,F,A-,Pancreas,HLA-DR,2,Delhi,divyareddy3784@gmail.com,KIMS Healthcare,Asthma
+R04368,Neha Gupta,4,F,AB+,Lung,HLA-DR,1,Dadra and Nagar Haveli,nehagupta4639@gmail.com,Medanta Hospital,Chronic Kidney Disease
+R03080,Shruti Joshi,4,F,B-,Pancreas,HLA-A,0,Uttarakhand,shrutijoshi2220@gmail.com,Apollo Institute of Medical Sciences,Asthma
+R07204,Deepika Verma,10,F,AB-,Liver,HLA-DR,2,Uttar Pradesh,deepikaverma9420@gmail.com,Global Clinic,Previous surgery
+R09910,Vivaan Rao,71,M,AB-,Kidney,HLA-DR,0,Karnataka,vivaanrao8145@gmail.com,AIIMS Healthcare,None
+R08865,Sanjay Patel,52,M,B+,Heart,HLA-B,0,Jharkhand,sanjaypatel5852@gmail.com,Care Healthcare,Obesity
+R00264,Rajesh Rao,30,M,A-,Pancreas,HLA-B,0,Uttarakhand,rajeshrao7262@gmail.com,AIIMS Medical Centre,Alcohol use
+R04338,Pooja Verma,33,F,A-,Liver,HLA-A,2,Tripura,poojaverma1371@gmail.com,NM Hospital Institute of Medical Sciences,Hypertension
+R08896,Nisha Gupta,48,F,O-,Kidney,HLA-B,2,Jammu and Kashmir,nishagupta3119@gmail.com,Apollo Medical Centre,Cardiac disease
+R08448,Tanya Verma,19,F,AB+,Pancreas,HLA-B,1,Tripura,tanyaverma5611@gmail.com,Care Clinic,Cardiac disease
+R05904,Nisha Kumar,47,F,A-,Liver,HLA-A,1,Andhra Pradesh,nishakumar5004@gmail.com,Care Institute of Medical Sciences,Asthma
+R01499,Aniket Khan,18,M,O+,Cornea,HLA-A,1,Assam,aniketkhan3518@gmail.com,NM Hospital Institute of Medical Sciences,None
+R04191,Manish Bose,55,M,O-,Cornea,HLA-A,1,Chandigarh,manishbose4917@gmail.com,Medanta Healthcare,Hepatitis
+R07486,Karan Kumar,23,M,B-,Cornea,HLA-DR,1,Haryana,karankumar632@gmail.com,Fortis Hospital,Allergy
+R09644,Sneha Kapoor,28,F,AB-,Heart,HLA-DR,1,Manipur,snehakapoor6790@gmail.com,Global Clinic,Asthma
+R08311,Sneha Singh,32,F,AB-,Pancreas,HLA-A,0,Telangana,snehasingh7251@gmail.com,Manipal Medical Centre,Chronic Kidney Disease
+R07591,Aarav Chowdhury,59,M,AB-,Kidney,HLA-A,0,Kerala,aaravchowdhury1234@gmail.com,Narayana Super Speciality Hospital,Alcohol use
+R00501,Yash Ghosh,25,M,B-,Heart,HLA-A,1,Odisha,yashghosh1714@gmail.com,Care Healthcare,Cardiac disease
+R09156,Vihaan Jain,44,M,A+,Lung,HLA-A,0,Gujarat,vihaanjain1082@gmail.com,Manipal Institute of Medical Sciences,Alcohol use
+R09415,Yash Khan,18,M,B+,Liver,HLA-B,2,Nagaland,yashkhan2499@gmail.com,KIMS Institute of Medical Sciences,Hypertension
+R03096,Siddharth Rao,23,M,O-,Cornea,HLA-B,1,Ladakh,siddharthrao7678@gmail.com,KIMS Super Speciality Hospital,Asthma
+R04632,Yash Khan,65,M,B-,Kidney,HLA-A,0,Punjab,yashkhan3258@gmail.com,Kokilaben Healthcare,Thyroid disorder
+R00368,Rahul Ghosh,14,M,O-,Pancreas,HLA-A,1,Ladakh,rahulghosh4994@gmail.com,Manipal Healthcare,Hepatitis
+R04059,Arjun Chowdhury,24,M,A-,Lung,HLA-A,1,Delhi,arjunchowdhury6252@gmail.com,Ruby Hall Institute of Medical Sciences,Hypertension
+R08175,Rajesh Mehta,55,M,A-,Liver,HLA-B,2,Kerala,rajeshmehta8991@gmail.com,Manipal Healthcare,None
+R04631,Sneha Gupta,3,F,O+,Lung,HLA-B,1,Himachal Pradesh,snehagupta8735@gmail.com,Manipal Healthcare,Thyroid disorder
+R06071,Nisha Gupta,31,F,AB+,Heart,HLA-DR,1,Tripura,nishagupta8235@gmail.com,Kokilaben Super Speciality Hospital,None
+R02665,Meera Ghosh,69,F,B-,Liver,HLA-A,0,Goa,meeraghosh2440@gmail.com,Sri Super Speciality Hospital,Hypertension
+R01027,Aniket Kumar,72,M,A-,Pancreas,HLA-DR,1,Meghalaya,aniketkumar2541@gmail.com,Sri Healthcare,Hypertension
+R05909,Karan Chopra,52,M,A+,Cornea,HLA-B,1,Uttarakhand,karanchopra7991@gmail.com,Care Clinic,Alcohol use
+R05051,Divya Nair,35,F,O-,Heart,HLA-DR,1,Nagaland,divyanair5495@gmail.com,Sri Medical Centre,Obesity
+R06329,Shruti Gupta,42,F,A-,Lung,HLA-A,1,West Bengal,shrutigupta780@gmail.com,Global Hospital,Cardiac disease
+R09734,Priya Chopra,54,F,A+,Cornea,HLA-B,0,Telangana,priyachopra6120@gmail.com,Medanta Healthcare,Obesity
+R01692,Ananya Bose,70,F,O+,Liver,HLA-A,1,Chhattisgarh,ananyabose9063@gmail.com,Manipal Hospital,Hypertension
+R00674,Aditya Joshi,57,M,AB+,Heart,HLA-B,0,Maharashtra,adityajoshi5892@gmail.com,Global Healthcare,Chronic Kidney Disease
+R05573,Manish Nair,40,M,B+,Liver,HLA-DR,0,Kerala,manishnair6563@gmail.com,Medanta Institute of Medical Sciences,Previous surgery
+R05767,Anjali Rao,67,F,AB+,Lung,HLA-A,0,Punjab,anjalirao2191@gmail.com,Max Medical Centre,Chronic Kidney Disease
+R05157,Pooja Khan,41,F,A+,Kidney,HLA-DR,1,Chhattisgarh,poojakhan7384@gmail.com,Fortis Super Speciality Hospital,Asthma
+R00734,Vihaan Reddy,46,M,A-,Heart,HLA-A,1,Goa,vihaanreddy7086@gmail.com,Fortis Clinic,Alcohol use
+R03527,Aishwarya Mehta,53,F,B+,Kidney,HLA-DR,1,Bihar,aishwaryamehta7491@gmail.com,Max Clinic,Allergy
+R00569,Pavitra Sharma,39,F,O+,Liver,HLA-A,2,Lakshadweep,pavitrasharma9166@gmail.com,NM Hospital Medical Centre,Chronic Kidney Disease
+R09188,Neha Iyer,11,F,A+,Cornea,HLA-DR,0,Manipur,nehaiyer28@gmail.com,Kokilaben Institute of Medical Sciences,Smoker
+R02923,Vijay Nair,74,M,O+,Pancreas,HLA-A,1,Rajasthan,vijaynair4393@gmail.com,Max Hospital,Obesity
+R07912,Pavitra Kumar,73,F,AB+,Liver,HLA-B,1,Bihar,pavitrakumar4205@gmail.com,Ruby Hall Medical Centre,Chronic Kidney Disease
+R01559,Saanvi Ghosh,38,F,AB+,Liver,HLA-DR,2,Arunachal Pradesh,saanvighosh5661@gmail.com,Ruby Hall Medical Centre,Hypertension
+R00102,Amit Gupta,36,M,A+,Cornea,HLA-DR,1,Sikkim,amitgupta1148@gmail.com,KIMS Clinic,Alcohol use
+R03008,Pavitra Iyer,52,F,AB+,Pancreas,HLA-A,2,Gujarat,pavitraiyer1514@gmail.com,Sri Hospital,Chronic Kidney Disease
+R07202,Vihaan Sharma,61,M,B+,Heart,HLA-B,1,Jammu and Kashmir,vihaansharma7177@gmail.com,NM Hospital Medical Centre,Smoker
+R00304,Sanjay Mehta,58,M,O+,Lung,HLA-A,1,Assam,sanjaymehta1531@gmail.com,Columbia Asia Healthcare,Previous surgery
+R00077,Aishwarya Verma,38,F,O-,Cornea,HLA-DR,0,West Bengal,aishwaryaverma247@gmail.com,Apollo Hospital,Hepatitis
+R06755,Aditya Bose,70,M,O-,Liver,HLA-DR,1,Dadra and Nagar Haveli,adityabose4363@gmail.com,Ruby Hall Hospital,Smoker
+R08630,Aniket Khan,22,M,B-,Cornea,HLA-B,0,Chandigarh,aniketkhan2035@gmail.com,KIMS Hospital,Hypertension
+R01209,Amit Rao,63,M,A-,Liver,HLA-DR,1,Rajasthan,amitrao5771@gmail.com,Fortis Medical Centre,Obesity
+R07743,Pavitra Khan,30,F,O+,Liver,HLA-B,2,Jammu and Kashmir,pavitrakhan8794@gmail.com,Narayana Institute of Medical Sciences,Obesity
+R08215,Saanvi Mehta,21,F,AB-,Liver,HLA-DR,0,Lakshadweep,saanvimehta2000@gmail.com,Care Medical Centre,Chronic Kidney Disease
+R08945,Vivaan Verma,11,M,AB-,Cornea,HLA-DR,2,Andhra Pradesh,vivaanverma3444@gmail.com,AIIMS Clinic,Smoker
+R08414,Abhishek Ghosh,69,M,AB-,Cornea,HLA-B,1,Uttar Pradesh,abhishekghosh2379@gmail.com,Narayana Healthcare,Previous surgery
+R01776,Meera Ghosh,9,F,AB+,Lung,HLA-B,2,Lakshadweep,meeraghosh9465@gmail.com,Apollo Clinic,Hypertension
+R03474,Anjali Rao,69,F,AB-,Lung,HLA-A,1,Tamil Nadu,anjalirao9579@gmail.com,Manipal Medical Centre,Cardiac disease
+R00484,Abhishek Patel,32,M,AB+,Cornea,HLA-DR,0,Jammu and Kashmir,abhishekpatel1369@gmail.com,Kokilaben Clinic,Obesity
+R02190,Rohan Chopra,5,M,O+,Kidney,HLA-A,0,Rajasthan,rohanchopra3365@gmail.com,Fortis Super Speciality Hospital,Hepatitis
+R00347,Sneha Reddy,32,F,A+,Cornea,HLA-A,0,Puducherry,snehareddy9992@gmail.com,Sri Medical Centre,Obesity
+R05482,Aditya Khan,33,M,B+,Heart,HLA-A,1,Uttarakhand,adityakhan6777@gmail.com,Fortis Hospital,Obesity
+R08362,Vivaan Verma,8,M,B+,Pancreas,HLA-DR,2,Haryana,vivaanverma6109@gmail.com,Kokilaben Medical Centre,Obesity
+R01473,Sneha Sharma,46,F,B-,Liver,HLA-DR,2,Jammu and Kashmir,snehasharma5400@gmail.com,Fortis Medical Centre,Obesity
+R05101,Nisha Joshi,16,F,AB+,Heart,HLA-A,2,Chandigarh,nishajoshi7778@gmail.com,Max Institute of Medical Sciences,Asthma
+R06766,Manish Jain,5,M,O-,Heart,HLA-DR,0,Daman and Diu,manishjain4908@gmail.com,Kokilaben Medical Centre,Thyroid disorder
+R08707,Divya Patel,14,F,AB-,Heart,HLA-B,1,Maharashtra,divyapatel5751@gmail.com,Care Institute of Medical Sciences,Chronic Kidney Disease
+R04930,Aishwarya Kumar,26,F,O-,Kidney,HLA-DR,1,Uttar Pradesh,aishwaryakumar5081@gmail.com,Fortis Clinic,Hepatitis
+R06330,Saanvi Singh,9,F,O+,Lung,HLA-DR,2,Tripura,saanvisingh1885@gmail.com,Care Hospital,Allergy
+R02610,Priya Kumar,35,F,A-,Cornea,HLA-DR,0,Uttarakhand,priyakumar6318@gmail.com,Global Hospital,Alcohol use
+R00004,Kunal Singh,48,M,B-,Lung,HLA-B,2,Chandigarh,kunalsingh1794@gmail.com,AIIMS Super Speciality Hospital,None
+R02214,Abhishek Verma,66,M,A-,Pancreas,HLA-DR,2,Telangana,abhishekverma4905@gmail.com,Kokilaben Hospital,Cardiac disease
+R04828,Aniket Iyer,57,M,A-,Kidney,HLA-A,2,Puducherry,aniketiyer9303@gmail.com,Care Super Speciality Hospital,Alcohol use
+R00857,Kunal Sharma,69,M,AB+,Cornea,HLA-A,0,Mizoram,kunalsharma1439@gmail.com,Narayana Super Speciality Hospital,Hepatitis
+R06978,Pavitra Joshi,7,F,AB-,Pancreas,HLA-DR,0,Kerala,pavitrajoshi999@gmail.com,Narayana Healthcare,Alcohol use
+R05886,Pranav Banerjee,20,M,B+,Heart,HLA-A,1,Mizoram,pranavbanerjee9911@gmail.com,Ruby Hall Healthcare,Previous surgery
+R00625,Arjun Nair,65,M,B+,Lung,HLA-DR,2,Punjab,arjunnair5790@gmail.com,Ruby Hall Super Speciality Hospital,None
+R00291,Manish Bose,38,M,A-,Liver,HLA-B,0,Punjab,manishbose7577@gmail.com,Ruby Hall Medical Centre,Obesity
+R02019,Siddharth Patel,60,M,A-,Lung,HLA-A,1,Maharashtra,siddharthpatel859@gmail.com,KIMS Institute of Medical Sciences,Diabetes
+R00669,Vihaan Iyer,20,M,A-,Lung,HLA-A,0,Jharkhand,vihaaniyer9551@gmail.com,Ruby Hall Institute of Medical Sciences,Asthma
+R08922,Anjali Nair,17,F,O-,Lung,HLA-DR,2,Meghalaya,anjalinair204@gmail.com,Manipal Hospital,Alcohol use
+R08265,Tanya Verma,34,F,A+,Kidney,HLA-DR,1,Manipur,tanyaverma5409@gmail.com,Medanta Super Speciality Hospital,Asthma
+R09697,Neha Kumar,47,F,A-,Pancreas,HLA-B,2,Mizoram,nehakumar9596@gmail.com,Global Medical Centre,Cardiac disease
+R01632,Kavya Kumar,23,F,A-,Heart,HLA-B,1,Gujarat,kavyakumar128@gmail.com,Narayana Clinic,Chronic Kidney Disease
+R05171,Riya Rao,23,F,AB-,Heart,HLA-B,0,Himachal Pradesh,riyarao5478@gmail.com,NM Hospital Hospital,Hepatitis
+R07206,Aishwarya Mehta,50,F,A+,Heart,HLA-DR,0,Jammu and Kashmir,aishwaryamehta490@gmail.com,Apollo Institute of Medical Sciences,Alcohol use
+R02523,Priya Mehta,71,F,A-,Heart,HLA-DR,1,Haryana,priyamehta1738@gmail.com,Manipal Hospital,Allergy
+R02216,Arjun Reddy,42,M,O+,Pancreas,HLA-A,1,Odisha,arjunreddy7762@gmail.com,Care Institute of Medical Sciences,Chronic Kidney Disease
+R06969,Tanya Banerjee,41,F,AB+,Cornea,HLA-DR,1,Manipur,tanyabanerjee3396@gmail.com,Kokilaben Hospital,Diabetes
+R06497,Deepika Bose,72,F,O-,Pancreas,HLA-A,2,West Bengal,deepikabose8801@gmail.com,Max Super Speciality Hospital,Previous surgery
+R06214,Sanjay Mehta,24,M,B-,Liver,HLA-DR,1,Manipur,sanjaymehta5635@gmail.com,Kokilaben Institute of Medical Sciences,Cardiac disease
+R07033,Anjali Patel,67,F,AB+,Heart,HLA-A,0,Andaman and Nicobar Islands,anjalipatel5283@gmail.com,Kokilaben Healthcare,Previous surgery
+R07421,Tanya Mehta,64,F,AB+,Lung,HLA-DR,0,Meghalaya,tanyamehta7836@gmail.com,Medanta Medical Centre,Hypertension
+R01108,Sakshi Singh,63,F,O+,Kidney,HLA-B,0,West Bengal,sakshisingh7808@gmail.com,Care Hospital,Hypertension
+R00451,Sanjay Singh,2,M,O+,Kidney,HLA-B,1,Jharkhand,sanjaysingh9891@gmail.com,KIMS Healthcare,Asthma
+R06290,Shruti Bose,5,F,A+,Cornea,HLA-A,2,Uttarakhand,shrutibose236@gmail.com,Manipal Healthcare,Previous surgery
+R09967,Riya Khan,15,F,O+,Kidney,HLA-A,1,West Bengal,riyakhan4220@gmail.com,Narayana Institute of Medical Sciences,Allergy
+R00136,Vijay Rao,31,M,A-,Kidney,HLA-DR,2,Bihar,vijayrao9493@gmail.com,Columbia Asia Clinic,Hypertension
+R01786,Sakshi Jain,16,F,AB+,Liver,HLA-B,2,Haryana,sakshijain2299@gmail.com,Care Healthcare,Alcohol use
+R03405,Riya Ghosh,35,F,B+,Heart,HLA-B,2,Dadra and Nagar Haveli,riyaghosh3359@gmail.com,Kokilaben Institute of Medical Sciences,Asthma
+R02907,Karan Joshi,55,M,A-,Cornea,HLA-B,1,Tamil Nadu,karanjoshi6185@gmail.com,Sri Hospital,Cardiac disease
+R08305,Tanya Sharma,19,F,AB+,Liver,HLA-A,2,Gujarat,tanyasharma5422@gmail.com,Narayana Hospital,Cardiac disease
+R07493,Amit Mehta,51,M,AB+,Pancreas,HLA-A,1,West Bengal,amitmehta99@gmail.com,Care Healthcare,Obesity
+R06101,Isha Nair,22,F,AB+,Liver,HLA-A,1,Goa,ishanair2465@gmail.com,Manipal Clinic,None
+R04505,Kunal Singh,63,M,AB+,Lung,HLA-DR,0,Daman and Diu,kunalsingh4685@gmail.com,Medanta Super Speciality Hospital,Asthma
+R05054,Deepika Reddy,75,F,B-,Lung,HLA-A,2,Jharkhand,deepikareddy1966@gmail.com,Narayana Super Speciality Hospital,Allergy
+R05206,Siddharth Chopra,15,M,B+,Heart,HLA-A,2,Puducherry,siddharthchopra738@gmail.com,Narayana Institute of Medical Sciences,None
+R04081,Aishwarya Ghosh,73,F,AB-,Cornea,HLA-DR,0,Ladakh,aishwaryaghosh3091@gmail.com,Sri Hospital,Smoker
+R06919,Vihaan Singh,63,M,B+,Heart,HLA-DR,0,Andhra Pradesh,vihaansingh8759@gmail.com,NM Hospital Super Speciality Hospital,Thyroid disorder
+R06803,Anjali Banerjee,60,F,O-,Liver,HLA-DR,0,Assam,anjalibanerjee1315@gmail.com,Apollo Institute of Medical Sciences,None
+R05207,Vivaan Chopra,27,M,O+,Liver,HLA-A,1,Tamil Nadu,vivaanchopra46@gmail.com,Care Hospital,Alcohol use
+R00533,Kavya Kapoor,28,F,O+,Heart,HLA-DR,1,Jharkhand,kavyakapoor1161@gmail.com,Max Super Speciality Hospital,Hepatitis
+R04831,Rajesh Patel,49,M,O-,Cornea,HLA-B,1,Lakshadweep,rajeshpatel9680@gmail.com,Narayana Institute of Medical Sciences,Hepatitis
+R04039,Tanya Sharma,22,F,B-,Heart,HLA-DR,0,Chandigarh,tanyasharma4215@gmail.com,Max Clinic,Hypertension
+R04085,Ananya Mehta,43,F,AB-,Heart,HLA-DR,2,Gujarat,ananyamehta5719@gmail.com,Medanta Super Speciality Hospital,Allergy
+R03205,Abhishek Singh,45,M,AB-,Cornea,HLA-DR,2,Chhattisgarh,abhisheksingh9480@gmail.com,Apollo Super Speciality Hospital,None
+R07111,Aditya Sharma,21,M,AB-,Liver,HLA-A,1,Jammu and Kashmir,adityasharma6622@gmail.com,Global Institute of Medical Sciences,Obesity
+R00331,Karan Mehta,38,M,A-,Cornea,HLA-A,0,Meghalaya,karanmehta6185@gmail.com,AIIMS Hospital,Obesity
+R04958,Pavitra Chopra,34,F,AB-,Heart,HLA-DR,0,Jammu and Kashmir,pavitrachopra4306@gmail.com,Columbia Asia Institute of Medical Sciences,Diabetes
+R03034,Meera Chopra,15,F,AB-,Lung,HLA-DR,1,West Bengal,meerachopra545@gmail.com,Medanta Institute of Medical Sciences,None
+R07685,Priya Sharma,37,F,O+,Cornea,HLA-DR,0,Assam,priyasharma4088@gmail.com,Global Institute of Medical Sciences,None
+R01598,Anjali Khan,4,F,B-,Liver,HLA-DR,2,Bihar,anjalikhan6054@gmail.com,Ruby Hall Medical Centre,Allergy
+R09920,Aarav Khan,42,M,A+,Heart,HLA-DR,0,Telangana,aaravkhan1244@gmail.com,Kokilaben Hospital,Hepatitis
+R03598,Vivaan Banerjee,11,M,O+,Liver,HLA-B,1,Andhra Pradesh,vivaanbanerjee8133@gmail.com,NM Hospital Institute of Medical Sciences,Alcohol use
+R09039,Aishwarya Joshi,1,F,O+,Liver,HLA-A,1,Mizoram,aishwaryajoshi4642@gmail.com,Ruby Hall Medical Centre,Previous surgery
+R08002,Vivaan Bose,54,M,AB-,Lung,HLA-DR,1,Daman and Diu,vivaanbose5238@gmail.com,Ruby Hall Institute of Medical Sciences,Previous surgery
+R00591,Yash Singh,72,M,B-,Pancreas,HLA-A,2,Bihar,yashsingh8672@gmail.com,NM Hospital Clinic,Chronic Kidney Disease
+R00648,Aniket Singh,21,M,AB-,Liver,HLA-A,2,Chhattisgarh,aniketsingh9502@gmail.com,Manipal Institute of Medical Sciences,None
+R09103,Isha Kapoor,32,F,O-,Pancreas,HLA-B,1,Madhya Pradesh,ishakapoor5115@gmail.com,Care Medical Centre,Alcohol use
+R08016,Aishwarya Kumar,71,F,O-,Liver,HLA-A,2,Uttar Pradesh,aishwaryakumar2726@gmail.com,Care Hospital,Asthma
+R03772,Manish Kapoor,72,M,O+,Heart,HLA-DR,2,Puducherry,manishkapoor5433@gmail.com,Medanta Institute of Medical Sciences,Chronic Kidney Disease
+R09040,Sanjay Jain,74,M,O-,Cornea,HLA-DR,2,Puducherry,sanjayjain1004@gmail.com,Manipal Medical Centre,Allergy
+R05083,Tanya Chowdhury,65,F,B+,Kidney,HLA-B,1,Jharkhand,tanyachowdhury5729@gmail.com,Columbia Asia Clinic,None
+R07883,Aishwarya Reddy,47,F,O+,Kidney,HLA-DR,1,Manipur,aishwaryareddy1391@gmail.com,Ruby Hall Super Speciality Hospital,Thyroid disorder
+R09363,Abhishek Joshi,41,M,A+,Kidney,HLA-A,0,Uttarakhand,abhishekjoshi9620@gmail.com,Manipal Healthcare,None
+R04211,Pavitra Sharma,48,F,AB+,Pancreas,HLA-DR,0,Himachal Pradesh,pavitrasharma2358@gmail.com,Ruby Hall Institute of Medical Sciences,Obesity
+R08835,Priya Jain,9,F,A+,Cornea,HLA-A,1,Tamil Nadu,priyajain2447@gmail.com,Kokilaben Medical Centre,Cardiac disease
+R08700,Suraj Chowdhury,70,M,AB+,Lung,HLA-A,0,Chhattisgarh,surajchowdhury6156@gmail.com,Global Medical Centre,Hepatitis
+R01796,Ananya Jain,24,F,O+,Liver,HLA-A,1,Uttarakhand,ananyajain3973@gmail.com,Sri Medical Centre,Cardiac disease
+R02587,Riya Singh,69,F,B-,Heart,HLA-B,1,Jammu and Kashmir,riyasingh2796@gmail.com,Narayana Super Speciality Hospital,Thyroid disorder
+R08356,Aditya Khan,19,M,A+,Lung,HLA-A,0,Tripura,adityakhan5219@gmail.com,Medanta Clinic,Hepatitis
+R02317,Pavitra Jain,66,F,A-,Liver,HLA-A,2,Manipur,pavitrajain3311@gmail.com,Fortis Healthcare,Thyroid disorder
+R04186,Deepika Mehta,54,F,AB+,Pancreas,HLA-B,1,Andhra Pradesh,deepikamehta8533@gmail.com,Sri Super Speciality Hospital,Hepatitis
+R08828,Pranav Chowdhury,5,M,AB-,Cornea,HLA-DR,2,Andaman and Nicobar Islands,pranavchowdhury4562@gmail.com,Fortis Healthcare,Obesity
+R07073,Divya Khan,21,F,AB-,Heart,HLA-B,2,Nagaland,divyakhan7306@gmail.com,Sri Clinic,Chronic Kidney Disease
+R05235,Vivaan Khan,21,M,B+,Pancreas,HLA-B,1,Kerala,vivaankhan2205@gmail.com,Global Healthcare,Chronic Kidney Disease
+R08744,Tanya Iyer,42,F,A-,Heart,HLA-A,2,Manipur,tanyaiyer8852@gmail.com,Apollo Medical Centre,Obesity
+R08671,Aishwarya Reddy,5,F,AB+,Pancreas,HLA-DR,0,Tripura,aishwaryareddy9444@gmail.com,Care Institute of Medical Sciences,Obesity
+R04769,Aarav Verma,4,M,B-,Cornea,HLA-B,0,Tripura,aaravverma9890@gmail.com,Ruby Hall Hospital,Thyroid disorder
+R09973,Sakshi Chowdhury,63,F,A-,Heart,HLA-A,1,Andhra Pradesh,sakshichowdhury1166@gmail.com,Care Healthcare,Hypertension
+R07145,Priya Patel,38,F,A-,Liver,HLA-A,0,Sikkim,priyapatel2854@gmail.com,KIMS Healthcare,Hypertension
+R02914,Sanjay Gupta,10,M,A-,Lung,HLA-DR,0,Jammu and Kashmir,sanjaygupta5814@gmail.com,Manipal Institute of Medical Sciences,Smoker
+R09872,Aniket Kumar,47,M,AB+,Lung,HLA-B,2,Himachal Pradesh,aniketkumar8672@gmail.com,Ruby Hall Institute of Medical Sciences,None
+R09894,Karan Singh,9,M,AB-,Cornea,HLA-B,1,Uttar Pradesh,karansingh6681@gmail.com,Kokilaben Hospital,Chronic Kidney Disease
+R02076,Meera Joshi,44,F,AB+,Liver,HLA-A,1,Uttarakhand,meerajoshi3405@gmail.com,Global Institute of Medical Sciences,Obesity
+R04303,Aniket Iyer,67,M,B+,Cornea,HLA-B,2,Telangana,aniketiyer4555@gmail.com,Kokilaben Medical Centre,Hypertension
+R05823,Ananya Chowdhury,74,F,A+,Heart,HLA-DR,0,Puducherry,ananyachowdhury5030@gmail.com,Manipal Hospital,Hepatitis
+R02150,Rahul Jain,60,M,AB+,Pancreas,HLA-A,0,Assam,rahuljain9933@gmail.com,Max Hospital,Hepatitis
+R00145,Abhishek Kapoor,22,M,B+,Kidney,HLA-DR,2,Himachal Pradesh,abhishekkapoor1583@gmail.com,Apollo Clinic,Diabetes
+R04964,Vihaan Ghosh,35,M,AB-,Pancreas,HLA-B,1,Mizoram,vihaanghosh6948@gmail.com,Fortis Institute of Medical Sciences,Obesity
+R08160,Kavya Joshi,75,F,AB+,Pancreas,HLA-DR,1,Ladakh,kavyajoshi1112@gmail.com,Max Hospital,Thyroid disorder
+R09031,Riya Khan,47,F,B-,Lung,HLA-B,1,Nagaland,riyakhan5656@gmail.com,Apollo Healthcare,Thyroid disorder
+R04776,Sneha Joshi,42,F,A-,Lung,HLA-B,2,Telangana,snehajoshi9009@gmail.com,Manipal Hospital,Allergy
+R08934,Ananya Khan,3,F,A+,Kidney,HLA-A,1,Assam,ananyakhan6299@gmail.com,Ruby Hall Healthcare,Cardiac disease
+R07750,Arjun Gupta,43,M,O+,Kidney,HLA-DR,1,Karnataka,arjungupta1790@gmail.com,Columbia Asia Institute of Medical Sciences,Previous surgery
+R09829,Nisha Ghosh,67,F,O+,Lung,HLA-B,0,Puducherry,nishaghosh3923@gmail.com,Columbia Asia Institute of Medical Sciences,Asthma
+R09215,Ananya Nair,53,F,AB+,Heart,HLA-B,1,Uttar Pradesh,ananyanair8499@gmail.com,KIMS Institute of Medical Sciences,Thyroid disorder
+R06061,Kunal Gupta,69,M,A-,Pancreas,HLA-DR,2,Haryana,kunalgupta1664@gmail.com,Columbia Asia Super Speciality Hospital,Obesity
+R09476,Rohan Kumar,31,M,O-,Cornea,HLA-DR,1,Jharkhand,rohankumar5367@gmail.com,Medanta Medical Centre,Previous surgery
+R06410,Vijay Mehta,45,M,AB-,Liver,HLA-B,2,Lakshadweep,vijaymehta2605@gmail.com,Narayana Medical Centre,Alcohol use
+R03318,Neha Kapoor,65,F,AB+,Liver,HLA-A,0,Madhya Pradesh,nehakapoor9603@gmail.com,Global Hospital,Asthma
+R07465,Aanya Nair,71,F,B+,Liver,HLA-B,1,Tripura,aanyanair840@gmail.com,Global Institute of Medical Sciences,Allergy
+R03062,Shruti Singh,17,F,AB+,Kidney,HLA-B,2,Arunachal Pradesh,shrutisingh6940@gmail.com,Fortis Healthcare,Hepatitis
+R01356,Kavya Mehta,36,F,A-,Pancreas,HLA-A,2,Jammu and Kashmir,kavyamehta1482@gmail.com,Kokilaben Medical Centre,Previous surgery
+R04515,Manish Jain,11,M,AB-,Pancreas,HLA-DR,2,Punjab,manishjain941@gmail.com,KIMS Clinic,Hepatitis
+R05506,Kavya Bose,19,F,A+,Pancreas,HLA-A,2,Rajasthan,kavyabose7725@gmail.com,KIMS Super Speciality Hospital,Thyroid disorder
+R05251,Kunal Mehta,53,M,B+,Kidney,HLA-A,0,Jammu and Kashmir,kunalmehta3330@gmail.com,AIIMS Medical Centre,Alcohol use
+R04512,Suraj Khan,70,M,AB+,Lung,HLA-B,2,Tamil Nadu,surajkhan9479@gmail.com,KIMS Healthcare,None
+R01731,Abhishek Gupta,42,M,A+,Liver,HLA-DR,0,Bihar,abhishekgupta4629@gmail.com,Narayana Hospital,Chronic Kidney Disease
+R01759,Deepika Banerjee,59,F,O+,Lung,HLA-DR,0,Nagaland,deepikabanerjee9933@gmail.com,NM Hospital Medical Centre,Obesity
+R06651,Vijay Gupta,59,M,AB+,Kidney,HLA-A,1,Assam,vijaygupta9370@gmail.com,KIMS Institute of Medical Sciences,Hepatitis
+R06647,Karan Gupta,68,M,A-,Liver,HLA-B,1,Rajasthan,karangupta5596@gmail.com,Kokilaben Institute of Medical Sciences,Hepatitis
+R09861,Manish Nair,53,M,O+,Heart,HLA-DR,2,Mizoram,manishnair2654@gmail.com,Sri Institute of Medical Sciences,Obesity
+R04140,Divya Joshi,32,F,AB+,Pancreas,HLA-B,2,Uttarakhand,divyajoshi9579@gmail.com,Manipal Hospital,Smoker
+R09394,Neha Nair,30,F,A-,Kidney,HLA-DR,1,Mizoram,nehanair5908@gmail.com,KIMS Institute of Medical Sciences,Hepatitis
+R05124,Isha Kapoor,22,F,A+,Liver,HLA-DR,1,Madhya Pradesh,ishakapoor9793@gmail.com,Sri Institute of Medical Sciences,Asthma
+R00001,Tanya Patel,48,F,O-,Heart,HLA-DR,0,Puducherry,tanyapatel6955@gmail.com,Kokilaben Super Speciality Hospital,Allergy
+R01865,Vijay Chowdhury,33,M,AB-,Heart,HLA-A,2,Chhattisgarh,vijaychowdhury8957@gmail.com,Fortis Institute of Medical Sciences,Chronic Kidney Disease
+R00544,Anjali Singh,51,F,A-,Liver,HLA-DR,0,Karnataka,anjalisingh420@gmail.com,AIIMS Super Speciality Hospital,Previous surgery
+R00350,Priya Singh,72,F,A-,Liver,HLA-DR,1,Bihar,priyasingh2640@gmail.com,Global Hospital,Previous surgery
+R06907,Saanvi Reddy,55,F,B+,Kidney,HLA-DR,0,Jharkhand,saanvireddy8329@gmail.com,Kokilaben Healthcare,Obesity
+R09766,Pranav Ghosh,66,M,A+,Heart,HLA-A,2,Mizoram,pranavghosh6016@gmail.com,Sri Healthcare,None
+R02524,Kavya Singh,39,F,A+,Liver,HLA-B,0,Dadra and Nagar Haveli,kavyasingh4956@gmail.com,Medanta Hospital,Alcohol use
+R03465,Aanya Chowdhury,5,F,O+,Cornea,HLA-A,1,Uttar Pradesh,aanyachowdhury4017@gmail.com,Max Healthcare,None
+R00458,Neha Iyer,48,F,O+,Kidney,HLA-DR,0,Karnataka,nehaiyer3624@gmail.com,Narayana Institute of Medical Sciences,Diabetes
+R03024,Riya Chowdhury,38,F,AB+,Kidney,HLA-A,1,Uttarakhand,riyachowdhury1178@gmail.com,Global Clinic,Cardiac disease
+R07262,Vivaan Khan,42,M,AB+,Pancreas,HLA-A,0,Bihar,vivaankhan2160@gmail.com,Global Super Speciality Hospital,None
+R09516,Rohan Bose,11,M,A+,Lung,HLA-A,0,Chandigarh,rohanbose889@gmail.com,Kokilaben Medical Centre,Thyroid disorder
+R07873,Priya Gupta,29,F,B-,Cornea,HLA-DR,0,Nagaland,priyagupta7465@gmail.com,Sri Medical Centre,Allergy
+R06626,Vihaan Jain,32,M,O-,Kidney,HLA-B,0,Tripura,vihaanjain8262@gmail.com,Kokilaben Institute of Medical Sciences,Asthma
+R02535,Rohan Chowdhury,48,M,B+,Kidney,HLA-A,1,Maharashtra,rohanchowdhury6733@gmail.com,Max Super Speciality Hospital,Diabetes
+R00132,Aishwarya Bose,21,F,A+,Lung,HLA-B,2,Gujarat,aishwaryabose8158@gmail.com,Apollo Clinic,Previous surgery
+R03705,Aarav Patel,28,M,A+,Kidney,HLA-B,2,Himachal Pradesh,aaravpatel7207@gmail.com,Kokilaben Healthcare,Obesity
+R01373,Kunal Chowdhury,75,M,B-,Lung,HLA-B,2,Ladakh,kunalchowdhury506@gmail.com,Ruby Hall Healthcare,None
+R06201,Sanjay Verma,43,M,AB+,Pancreas,HLA-B,0,Andaman and Nicobar Islands,sanjayverma35@gmail.com,Sri Super Speciality Hospital,Cardiac disease
+R04857,Tanya Mehta,36,F,AB+,Heart,HLA-B,2,Meghalaya,tanyamehta579@gmail.com,AIIMS Hospital,Asthma
+R04713,Manish Patel,12,M,AB-,Heart,HLA-A,2,Assam,manishpatel6542@gmail.com,Medanta Healthcare,Thyroid disorder
+R05545,Aanya Patel,8,F,B-,Lung,HLA-DR,2,Andhra Pradesh,aanyapatel3921@gmail.com,Manipal Hospital,Thyroid disorder
+R01414,Rohan Jain,28,M,O-,Liver,HLA-A,1,Gujarat,rohanjain4280@gmail.com,Apollo Institute of Medical Sciences,Chronic Kidney Disease
+R04114,Anjali Khan,18,F,O-,Cornea,HLA-B,2,Andhra Pradesh,anjalikhan752@gmail.com,Narayana Medical Centre,Diabetes
+R00656,Vihaan Verma,37,M,AB+,Lung,HLA-DR,1,Rajasthan,vihaanverma4904@gmail.com,Max Super Speciality Hospital,Diabetes
+R08138,Pranav Chopra,12,M,AB+,Liver,HLA-A,0,Punjab,pranavchopra5988@gmail.com,AIIMS Clinic,Obesity
+R04099,Abhishek Chopra,69,M,A+,Lung,HLA-B,0,Chhattisgarh,abhishekchopra7010@gmail.com,KIMS Super Speciality Hospital,Alcohol use
+R00593,Ananya Reddy,44,F,A-,Heart,HLA-A,2,Goa,ananyareddy6181@gmail.com,Max Super Speciality Hospital,None
+R08709,Suraj Mehta,25,M,B+,Cornea,HLA-DR,2,Arunachal Pradesh,surajmehta53@gmail.com,NM Hospital Institute of Medical Sciences,Alcohol use
+R03124,Rajesh Nair,10,M,O+,Kidney,HLA-B,0,Daman and Diu,rajeshnair6636@gmail.com,Narayana Healthcare,Diabetes
+R03048,Meera Chowdhury,70,F,O+,Cornea,HLA-B,2,Ladakh,meerachowdhury4062@gmail.com,Manipal Clinic,Thyroid disorder
+R03888,Ananya Patel,18,F,A+,Liver,HLA-A,0,Maharashtra,ananyapatel9535@gmail.com,AIIMS Medical Centre,Allergy
+R05736,Divya Mehta,34,F,O+,Lung,HLA-A,1,Mizoram,divyamehta8956@gmail.com,Narayana Clinic,Asthma
+R02185,Riya Kapoor,75,F,A-,Cornea,HLA-DR,2,Meghalaya,riyakapoor4118@gmail.com,KIMS Medical Centre,None
+R02146,Ananya Chopra,60,F,AB-,Kidney,HLA-B,0,Nagaland,ananyachopra882@gmail.com,KIMS Super Speciality Hospital,Smoker
+R07048,Pranav Verma,27,M,A+,Pancreas,HLA-B,1,Karnataka,pranavverma4299@gmail.com,Global Healthcare,Obesity
+R03106,Priya Chowdhury,57,F,A+,Liver,HLA-A,1,Kerala,priyachowdhury7008@gmail.com,Fortis Healthcare,Thyroid disorder
+R09234,Divya Kumar,49,F,AB+,Kidney,HLA-B,2,Andaman and Nicobar Islands,divyakumar6909@gmail.com,Kokilaben Healthcare,Alcohol use
+R09097,Priya Ghosh,14,F,O+,Kidney,HLA-B,0,Nagaland,priyaghosh215@gmail.com,Max Institute of Medical Sciences,Hypertension
+R02770,Isha Khan,21,F,AB-,Cornea,HLA-B,2,Ladakh,ishakhan9469@gmail.com,Narayana Super Speciality Hospital,Hypertension
+R05222,Pooja Ghosh,5,F,B-,Liver,HLA-B,0,Jharkhand,poojaghosh9631@gmail.com,Manipal Healthcare,Cardiac disease
+R05834,Rahul Banerjee,65,M,O+,Cornea,HLA-A,1,Gujarat,rahulbanerjee1293@gmail.com,Sri Hospital,Cardiac disease
+R01733,Abhishek Iyer,50,M,O+,Heart,HLA-B,2,Rajasthan,abhishekiyer2469@gmail.com,Global Medical Centre,Diabetes
+R00266,Pooja Banerjee,11,F,A-,Cornea,HLA-B,2,Himachal Pradesh,poojabanerjee9343@gmail.com,Medanta Healthcare,Diabetes
+R05145,Aarav Mehta,58,M,B+,Liver,HLA-A,2,Goa,aaravmehta6855@gmail.com,Sri Hospital,Allergy
+R08268,Anjali Mehta,67,F,O-,Kidney,HLA-A,0,Gujarat,anjalimehta4806@gmail.com,Care Institute of Medical Sciences,Previous surgery
+R03938,Deepika Chowdhury,22,F,AB-,Liver,HLA-A,2,Bihar,deepikachowdhury300@gmail.com,Global Healthcare,Cardiac disease
+R00762,Isha Jain,34,F,AB-,Lung,HLA-A,0,Lakshadweep,ishajain2888@gmail.com,KIMS Super Speciality Hospital,Alcohol use
+R07221,Yash Ghosh,5,M,AB-,Pancreas,HLA-A,0,Jammu and Kashmir,yashghosh3894@gmail.com,Kokilaben Super Speciality Hospital,None
+R08440,Deepika Khan,52,F,O-,Pancreas,HLA-DR,1,Chhattisgarh,deepikakhan5326@gmail.com,Fortis Hospital,Cardiac disease
+R03258,Anjali Mehta,35,F,O+,Lung,HLA-DR,1,Meghalaya,anjalimehta4511@gmail.com,Kokilaben Institute of Medical Sciences,Chronic Kidney Disease
+R04339,Yash Kumar,74,M,AB+,Lung,HLA-DR,1,Sikkim,yashkumar8202@gmail.com,Sri Clinic,Chronic Kidney Disease
+R04363,Aniket Iyer,14,M,O+,Kidney,HLA-B,1,Delhi,aniketiyer2300@gmail.com,Sri Clinic,Previous surgery
+R00317,Riya Kapoor,31,F,AB+,Kidney,HLA-DR,0,Arunachal Pradesh,riyakapoor911@gmail.com,Columbia Asia Clinic,Diabetes
+R08070,Vivaan Mehta,63,M,O-,Kidney,HLA-B,1,Lakshadweep,vivaanmehta1450@gmail.com,Care Healthcare,Smoker
+R01852,Sneha Jain,34,F,A-,Heart,HLA-DR,2,Uttar Pradesh,snehajain364@gmail.com,Apollo Hospital,Allergy
+R02485,Sakshi Bose,54,F,B+,Liver,HLA-B,1,Maharashtra,sakshibose5590@gmail.com,Ruby Hall Clinic,None
+R09874,Kavya Jain,20,F,A+,Liver,HLA-DR,1,Dadra and Nagar Haveli,kavyajain9495@gmail.com,Fortis Medical Centre,Allergy
+R09575,Amit Sharma,42,M,O+,Liver,HLA-B,1,Madhya Pradesh,amitsharma2714@gmail.com,KIMS Hospital,Diabetes
+R01079,Aanya Kapoor,51,F,B-,Heart,HLA-DR,0,Goa,aanyakapoor4213@gmail.com,NM Hospital Clinic,Alcohol use
+R08359,Vihaan Verma,2,M,B+,Lung,HLA-B,1,Gujarat,vihaanverma9860@gmail.com,Kokilaben Hospital,Allergy
+R07334,Kunal Kumar,49,M,B+,Cornea,HLA-DR,2,Daman and Diu,kunalkumar7184@gmail.com,KIMS Institute of Medical Sciences,Alcohol use
+R01072,Arjun Singh,54,M,AB-,Liver,HLA-DR,0,Haryana,arjunsingh9386@gmail.com,Narayana Healthcare,Previous surgery
+R00104,Divya Reddy,72,F,AB+,Lung,HLA-DR,2,Jharkhand,divyareddy9408@gmail.com,Ruby Hall Healthcare,Diabetes
+R05749,Kunal Gupta,36,M,O-,Kidney,HLA-DR,1,Gujarat,kunalgupta2456@gmail.com,Max Hospital,Alcohol use
+R01419,Aditya Kumar,54,M,AB-,Pancreas,HLA-A,2,Arunachal Pradesh,adityakumar5619@gmail.com,Fortis Medical Centre,Obesity
+R01659,Sneha Gupta,67,F,AB+,Kidney,HLA-DR,1,Mizoram,snehagupta6693@gmail.com,Narayana Healthcare,Chronic Kidney Disease
+R05285,Sanjay Patel,41,M,A-,Pancreas,HLA-B,0,Assam,sanjaypatel8846@gmail.com,Medanta Healthcare,Smoker
+R01150,Sneha Verma,61,F,B+,Liver,HLA-B,2,Rajasthan,snehaverma6007@gmail.com,Global Medical Centre,Cardiac disease
+R07151,Vivaan Mehta,51,M,O+,Heart,HLA-DR,2,Manipur,vivaanmehta8294@gmail.com,Global Healthcare,Cardiac disease
+R01569,Sanjay Joshi,33,M,AB+,Cornea,HLA-B,2,Goa,sanjayjoshi1669@gmail.com,AIIMS Clinic,Hypertension
+R01088,Nisha Joshi,20,F,A+,Pancreas,HLA-A,2,Manipur,nishajoshi7709@gmail.com,Max Institute of Medical Sciences,Obesity
+R06086,Vihaan Joshi,14,M,A-,Lung,HLA-B,0,Sikkim,vihaanjoshi7017@gmail.com,Medanta Healthcare,Cardiac disease
+R08675,Aishwarya Bose,29,F,A+,Heart,HLA-DR,1,Karnataka,aishwaryabose5837@gmail.com,Global Medical Centre,Hepatitis
+R08342,Karan Singh,36,M,O-,Kidney,HLA-A,1,Daman and Diu,karansingh7580@gmail.com,Ruby Hall Clinic,None
+R07812,Sanjay Chowdhury,71,M,O+,Liver,HLA-B,2,Maharashtra,sanjaychowdhury4237@gmail.com,Kokilaben Hospital,Smoker
+R06085,Deepika Chowdhury,14,F,AB-,Lung,HLA-DR,1,Jammu and Kashmir,deepikachowdhury2403@gmail.com,Narayana Institute of Medical Sciences,Obesity
+R08774,Karan Khan,14,M,AB+,Pancreas,HLA-A,1,Assam,karankhan8285@gmail.com,Kokilaben Healthcare,Asthma
+R08758,Saanvi Singh,12,F,B-,Cornea,HLA-B,1,Chhattisgarh,saanvisingh99@gmail.com,Columbia Asia Healthcare,Smoker
+R01693,Yash Banerjee,69,M,A-,Pancreas,HLA-B,2,Jammu and Kashmir,yashbanerjee8864@gmail.com,Sri Medical Centre,Hepatitis
+R04735,Sanjay Kapoor,54,M,O-,Heart,HLA-B,0,Himachal Pradesh,sanjaykapoor5867@gmail.com,NM Hospital Clinic,Smoker
+R03388,Tanya Nair,68,F,O+,Heart,HLA-B,0,Nagaland,tanyanair6406@gmail.com,Sri Medical Centre,None
+R03647,Suraj Nair,54,M,AB+,Heart,HLA-A,0,Dadra and Nagar Haveli,surajnair8348@gmail.com,Max Hospital,Hepatitis
+R01684,Pranav Singh,58,M,A-,Kidney,HLA-DR,2,Meghalaya,pranavsingh6063@gmail.com,Global Super Speciality Hospital,Asthma
+R00009,Ananya Khan,39,F,B-,Kidney,HLA-B,2,Dadra and Nagar Haveli,ananyakhan5165@gmail.com,AIIMS Institute of Medical Sciences,Chronic Kidney Disease
+R06063,Shruti Bose,64,F,A+,Cornea,HLA-A,1,Manipur,shrutibose9180@gmail.com,NM Hospital Hospital,Cardiac disease
+R06517,Meera Patel,68,F,AB-,Pancreas,HLA-A,1,Gujarat,meerapatel1764@gmail.com,Sri Clinic,Hepatitis
+R04124,Divya Jain,12,F,B+,Pancreas,HLA-DR,1,Mizoram,divyajain6973@gmail.com,Ruby Hall Healthcare,Alcohol use
+R08730,Pranav Jain,69,M,O-,Heart,HLA-DR,1,Nagaland,pranavjain871@gmail.com,NM Hospital Clinic,None
+R06046,Kunal Mehta,15,M,O-,Heart,HLA-B,0,Himachal Pradesh,kunalmehta2358@gmail.com,Sri Medical Centre,Smoker
+R00568,Pooja Verma,35,F,O-,Pancreas,HLA-B,1,Ladakh,poojaverma8108@gmail.com,Max Healthcare,Hypertension
+R09162,Vivaan Ghosh,31,M,A+,Heart,HLA-B,0,Tamil Nadu,vivaanghosh3138@gmail.com,KIMS Clinic,Allergy
+R01804,Karan Iyer,9,M,B-,Cornea,HLA-B,0,Mizoram,karaniyer3161@gmail.com,KIMS Healthcare,Hepatitis
+R08502,Rahul Kapoor,1,M,A+,Heart,HLA-A,2,Manipur,rahulkapoor7958@gmail.com,Manipal Institute of Medical Sciences,Previous surgery
+R04901,Meera Khan,36,F,B+,Heart,HLA-A,0,Lakshadweep,meerakhan3965@gmail.com,AIIMS Medical Centre,Obesity
+R01600,Aditya Jain,17,M,A-,Pancreas,HLA-DR,1,Gujarat,adityajain1411@gmail.com,Global Institute of Medical Sciences,Alcohol use
+R07932,Rahul Khan,5,M,A-,Heart,HLA-DR,0,Chhattisgarh,rahulkhan8020@gmail.com,Narayana Hospital,Alcohol use
+R09548,Ananya Kapoor,17,F,O+,Kidney,HLA-DR,2,Himachal Pradesh,ananyakapoor3817@gmail.com,NM Hospital Healthcare,Chronic Kidney Disease
+R02824,Rohan Kapoor,40,M,A+,Lung,HLA-A,2,Rajasthan,rohankapoor5985@gmail.com,Apollo Super Speciality Hospital,None
+R05468,Aditya Joshi,73,M,A+,Kidney,HLA-A,1,Arunachal Pradesh,adityajoshi6914@gmail.com,Kokilaben Medical Centre,Smoker
+R03530,Amit Verma,4,M,B-,Cornea,HLA-B,2,Andaman and Nicobar Islands,amitverma1371@gmail.com,NM Hospital Medical Centre,Hepatitis
+R08684,Amit Verma,45,M,AB+,Lung,HLA-A,2,Madhya Pradesh,amitverma8477@gmail.com,Ruby Hall Hospital,Allergy
+R01156,Yash Joshi,52,M,A-,Heart,HLA-A,2,Uttarakhand,yashjoshi4632@gmail.com,Columbia Asia Healthcare,Smoker
+R06548,Neha Bose,43,F,A-,Heart,HLA-DR,1,Manipur,nehabose6739@gmail.com,NM Hospital Hospital,Diabetes
+R09089,Tanya Mehta,49,F,O+,Cornea,HLA-A,0,West Bengal,tanyamehta7542@gmail.com,Global Healthcare,Cardiac disease
+R07621,Aniket Joshi,40,M,O-,Lung,HLA-A,2,Jammu and Kashmir,aniketjoshi988@gmail.com,AIIMS Institute of Medical Sciences,Hypertension
+R08297,Rohan Singh,14,M,O+,Liver,HLA-B,1,Telangana,rohansingh4565@gmail.com,Kokilaben Healthcare,Hypertension
+R04541,Divya Mehta,28,F,O-,Pancreas,HLA-B,2,Tamil Nadu,divyamehta3823@gmail.com,KIMS Hospital,Smoker
+R09135,Priya Chowdhury,30,F,AB+,Lung,HLA-A,2,Nagaland,priyachowdhury1855@gmail.com,Kokilaben Institute of Medical Sciences,Diabetes
+R06483,Aarav Chowdhury,16,M,AB-,Pancreas,HLA-DR,2,Tamil Nadu,aaravchowdhury4720@gmail.com,Global Hospital,Hypertension
+R05827,Rahul Jain,18,M,AB-,Kidney,HLA-B,1,Goa,rahuljain3401@gmail.com,AIIMS Healthcare,Alcohol use
+R01191,Aditya Rao,70,M,B+,Liver,HLA-DR,2,West Bengal,adityarao5068@gmail.com,Apollo Clinic,Diabetes
+R07445,Anjali Gupta,61,F,O-,Liver,HLA-A,0,Uttarakhand,anjaligupta2429@gmail.com,Manipal Healthcare,Diabetes
+R08521,Pranav Kumar,68,M,AB+,Heart,HLA-DR,2,Gujarat,pranavkumar7076@gmail.com,Care Healthcare,Allergy
+R00961,Rohan Iyer,53,M,AB+,Kidney,HLA-DR,1,Jammu and Kashmir,rohaniyer9584@gmail.com,Medanta Institute of Medical Sciences,Alcohol use
+R07455,Anjali Kapoor,21,F,A+,Heart,HLA-A,1,West Bengal,anjalikapoor4118@gmail.com,Max Clinic,Allergy
+R00037,Nisha Gupta,55,F,A+,Heart,HLA-DR,1,Haryana,nishagupta2943@gmail.com,Manipal Healthcare,Asthma
+R07517,Meera Nair,19,F,A-,Liver,HLA-DR,0,Arunachal Pradesh,meeranair6752@gmail.com,Apollo Healthcare,Cardiac disease
+R07645,Vijay Kapoor,22,M,B-,Kidney,HLA-DR,2,Arunachal Pradesh,vijaykapoor1785@gmail.com,Care Super Speciality Hospital,Previous surgery
+R04439,Aniket Iyer,25,M,AB-,Pancreas,HLA-B,2,Nagaland,aniketiyer8041@gmail.com,KIMS Institute of Medical Sciences,Thyroid disorder
+R06162,Sanjay Reddy,3,M,A-,Pancreas,HLA-B,0,Jharkhand,sanjayreddy9418@gmail.com,Manipal Super Speciality Hospital,Smoker
+R07745,Priya Gupta,20,F,B-,Pancreas,HLA-A,2,Meghalaya,priyagupta2094@gmail.com,Care Hospital,Allergy
+R09588,Vihaan Banerjee,59,M,O-,Kidney,HLA-DR,2,Uttarakhand,vihaanbanerjee9594@gmail.com,Medanta Healthcare,Hypertension
+R08120,Aniket Nair,43,M,A+,Cornea,HLA-A,2,Arunachal Pradesh,aniketnair4558@gmail.com,NM Hospital Medical Centre,Asthma
+R06968,Arjun Joshi,38,M,AB-,Heart,HLA-B,2,Assam,arjunjoshi2796@gmail.com,Sri Super Speciality Hospital,Asthma
+R05719,Pooja Nair,40,F,O-,Kidney,HLA-B,0,Bihar,poojanair6179@gmail.com,Apollo Medical Centre,Chronic Kidney Disease
+R00578,Vijay Jain,53,M,B-,Pancreas,HLA-B,0,Dadra and Nagar Haveli,vijayjain8819@gmail.com,Fortis Healthcare,Obesity
+R09834,Vijay Iyer,60,M,A+,Cornea,HLA-A,2,Rajasthan,vijayiyer8060@gmail.com,Narayana Super Speciality Hospital,Alcohol use
+R04103,Aditya Kumar,48,M,O-,Liver,HLA-B,1,Uttarakhand,adityakumar3946@gmail.com,Global Hospital,Chronic Kidney Disease
+R07647,Vivaan Verma,28,M,B+,Liver,HLA-B,2,Punjab,vivaanverma5299@gmail.com,Narayana Institute of Medical Sciences,Diabetes
+R04152,Karan Reddy,53,M,B-,Liver,HLA-A,2,Meghalaya,karanreddy4441@gmail.com,Ruby Hall Institute of Medical Sciences,Allergy
+R03131,Ananya Sharma,41,F,O-,Cornea,HLA-B,0,Delhi,ananyasharma5781@gmail.com,Sri Clinic,Cardiac disease
+R04891,Riya Khan,20,F,AB+,Cornea,HLA-B,1,Himachal Pradesh,riyakhan4454@gmail.com,Ruby Hall Medical Centre,Chronic Kidney Disease
+R09976,Deepika Sharma,60,F,A-,Kidney,HLA-DR,0,Kerala,deepikasharma403@gmail.com,Ruby Hall Institute of Medical Sciences,Cardiac disease
+R07472,Vihaan Ghosh,60,M,B-,Pancreas,HLA-DR,2,Lakshadweep,vihaanghosh3741@gmail.com,Max Healthcare,Thyroid disorder
+R01834,Kunal Ghosh,71,M,O-,Cornea,HLA-DR,2,Jharkhand,kunalghosh7151@gmail.com,Ruby Hall Hospital,Alcohol use
+R09149,Amit Chowdhury,70,M,AB+,Kidney,HLA-A,0,Assam,amitchowdhury4805@gmail.com,Global Hospital,Allergy
+R04892,Neha Reddy,4,F,B+,Lung,HLA-A,1,Delhi,nehareddy7564@gmail.com,Medanta Hospital,Hepatitis
+R02288,Vijay Banerjee,69,M,B+,Lung,HLA-B,2,Haryana,vijaybanerjee8946@gmail.com,Fortis Clinic,Asthma
+R01331,Rahul Banerjee,31,M,O+,Kidney,HLA-B,0,Rajasthan,rahulbanerjee2697@gmail.com,Medanta Institute of Medical Sciences,Hypertension
+R02772,Rahul Ghosh,32,M,O+,Cornea,HLA-B,2,Odisha,rahulghosh9587@gmail.com,Max Hospital,Thyroid disorder
+R03687,Rohan Ghosh,24,M,AB+,Liver,HLA-A,2,Andaman and Nicobar Islands,rohanghosh5443@gmail.com,Manipal Medical Centre,Thyroid disorder
+R08284,Isha Joshi,36,F,O+,Kidney,HLA-DR,1,Andaman and Nicobar Islands,ishajoshi3893@gmail.com,Apollo Hospital,Asthma
+R05929,Pavitra Gupta,18,F,B+,Lung,HLA-DR,0,Assam,pavitragupta4082@gmail.com,Narayana Medical Centre,Obesity
+R00638,Rajesh Verma,41,M,AB+,Cornea,HLA-A,0,Karnataka,rajeshverma6436@gmail.com,Columbia Asia Clinic,Allergy
+R00048,Nisha Ghosh,59,F,B+,Heart,HLA-A,0,Haryana,nishaghosh9680@gmail.com,AIIMS Clinic,Previous surgery
+R02603,Anjali Reddy,48,F,AB+,Pancreas,HLA-DR,0,Odisha,anjalireddy4288@gmail.com,Manipal Clinic,Diabetes
+R01966,Shruti Ghosh,23,F,B-,Kidney,HLA-B,1,Andaman and Nicobar Islands,shrutighosh3881@gmail.com,AIIMS Hospital,Asthma
+R02169,Isha Patel,46,F,AB+,Cornea,HLA-B,0,Rajasthan,ishapatel1973@gmail.com,Columbia Asia Clinic,Asthma
+R05050,Manish Singh,44,M,O-,Pancreas,HLA-B,0,Chandigarh,manishsingh6661@gmail.com,AIIMS Institute of Medical Sciences,Hypertension
+R03335,Pavitra Kapoor,22,F,B-,Heart,HLA-A,0,Gujarat,pavitrakapoor7799@gmail.com,Max Hospital,Obesity
+R03020,Priya Chowdhury,40,F,O-,Heart,HLA-DR,0,Rajasthan,priyachowdhury280@gmail.com,Fortis Hospital,Asthma
+R08765,Vijay Verma,73,M,O-,Kidney,HLA-B,0,Tamil Nadu,vijayverma8244@gmail.com,Sri Hospital,Cardiac disease
+R09177,Arjun Ghosh,22,M,O-,Liver,HLA-B,1,Punjab,arjunghosh5584@gmail.com,Care Healthcare,Allergy
+R01361,Tanya Iyer,67,F,AB+,Liver,HLA-DR,1,Jammu and Kashmir,tanyaiyer763@gmail.com,Narayana Institute of Medical Sciences,Cardiac disease
+R05799,Meera Rao,5,F,O+,Lung,HLA-DR,0,West Bengal,meerarao3165@gmail.com,Sri Institute of Medical Sciences,Asthma
+R09401,Aarav Rao,24,M,AB-,Kidney,HLA-DR,0,Puducherry,aaravrao547@gmail.com,Global Hospital,Thyroid disorder
+R03252,Aanya Bose,69,F,B-,Heart,HLA-B,2,Gujarat,aanyabose9680@gmail.com,Max Clinic,Obesity
+R06301,Isha Chopra,67,F,B+,Pancreas,HLA-A,2,Sikkim,ishachopra4795@gmail.com,Apollo Medical Centre,Smoker
+R02252,Meera Khan,20,F,B-,Cornea,HLA-A,0,Madhya Pradesh,meerakhan1392@gmail.com,Care Clinic,Obesity
+R06028,Karan Joshi,67,M,A-,Liver,HLA-A,1,Delhi,karanjoshi3739@gmail.com,Max Institute of Medical Sciences,Hypertension
+R01176,Aditya Chopra,29,M,O+,Heart,HLA-A,0,Goa,adityachopra493@gmail.com,Columbia Asia Hospital,Cardiac disease
+R08800,Pooja Gupta,27,F,A-,Cornea,HLA-A,2,West Bengal,poojagupta5818@gmail.com,Ruby Hall Hospital,Diabetes
+R03280,Rohan Khan,31,M,AB+,Liver,HLA-A,0,Dadra and Nagar Haveli,rohankhan6@gmail.com,Apollo Clinic,Allergy
+R02974,Rajesh Nair,35,M,O-,Kidney,HLA-B,1,Himachal Pradesh,rajeshnair795@gmail.com,Columbia Asia Hospital,Asthma
+R03397,Pranav Jain,12,M,O-,Heart,HLA-A,1,Gujarat,pranavjain3767@gmail.com,Care Hospital,Thyroid disorder
+R06940,Pranav Jain,21,M,O-,Lung,HLA-B,2,Andaman and Nicobar Islands,pranavjain3196@gmail.com,Ruby Hall Clinic,Cardiac disease
+R00966,Neha Jain,45,F,AB-,Pancreas,HLA-A,2,Sikkim,nehajain8037@gmail.com,KIMS Clinic,Hepatitis
+R08575,Pavitra Jain,17,F,B-,Kidney,HLA-DR,1,West Bengal,pavitrajain8119@gmail.com,Narayana Super Speciality Hospital,Cardiac disease
+R00743,Vijay Gupta,8,M,A+,Heart,HLA-DR,2,Jharkhand,vijaygupta8272@gmail.com,AIIMS Institute of Medical Sciences,Chronic Kidney Disease
+R07515,Rohan Gupta,47,M,B+,Pancreas,HLA-DR,0,Jharkhand,rohangupta4215@gmail.com,Care Clinic,Obesity
+R03315,Isha Kapoor,50,F,O+,Cornea,HLA-A,2,Jharkhand,ishakapoor8896@gmail.com,Care Hospital,Alcohol use
+R04899,Aanya Gupta,43,F,AB+,Cornea,HLA-DR,0,Delhi,aanyagupta4766@gmail.com,Care Healthcare,Thyroid disorder
+R09341,Sneha Chopra,56,F,O+,Pancreas,HLA-DR,1,Andaman and Nicobar Islands,snehachopra2779@gmail.com,Care Medical Centre,None
+R04673,Rohan Kumar,8,M,O+,Liver,HLA-DR,0,Punjab,rohankumar1459@gmail.com,Columbia Asia Healthcare,None
+R08619,Pooja Kapoor,63,F,AB+,Pancreas,HLA-DR,2,Sikkim,poojakapoor496@gmail.com,Manipal Clinic,Allergy
+R01218,Arjun Chopra,28,M,B-,Pancreas,HLA-DR,2,Meghalaya,arjunchopra1946@gmail.com,NM Hospital Institute of Medical Sciences,Thyroid disorder
+R04398,Priya Khan,40,F,O-,Lung,HLA-B,0,Chhattisgarh,priyakhan2467@gmail.com,Care Medical Centre,Allergy
+R06081,Sneha Ghosh,62,F,B-,Pancreas,HLA-B,1,West Bengal,snehaghosh3665@gmail.com,Max Institute of Medical Sciences,None
+R02615,Manish Singh,33,M,B-,Pancreas,HLA-DR,1,Andaman and Nicobar Islands,manishsingh7485@gmail.com,Max Super Speciality Hospital,Thyroid disorder
+R02621,Aditya Joshi,59,M,O-,Kidney,HLA-B,0,Karnataka,adityajoshi8970@gmail.com,Columbia Asia Institute of Medical Sciences,Previous surgery
+R08715,Yash Reddy,59,M,B-,Pancreas,HLA-DR,0,Goa,yashreddy4877@gmail.com,Apollo Hospital,Obesity
+R07283,Manish Ghosh,35,M,B+,Heart,HLA-A,1,Daman and Diu,manishghosh389@gmail.com,Narayana Medical Centre,Previous surgery
+R03380,Vihaan Bose,69,M,B-,Cornea,HLA-DR,1,Tripura,vihaanbose5940@gmail.com,Fortis Clinic,Thyroid disorder
+R07302,Sanjay Rao,69,M,O+,Liver,HLA-B,1,Uttar Pradesh,sanjayrao4310@gmail.com,Medanta Healthcare,Hepatitis
+R09858,Vihaan Verma,71,M,B-,Cornea,HLA-DR,2,Andaman and Nicobar Islands,vihaanverma2807@gmail.com,Ruby Hall Clinic,Allergy
+R05606,Pooja Jain,49,F,O-,Kidney,HLA-A,0,Andaman and Nicobar Islands,poojajain7748@gmail.com,Apollo Super Speciality Hospital,Alcohol use
+R09814,Ananya Bose,17,F,A+,Cornea,HLA-A,1,Uttar Pradesh,ananyabose3477@gmail.com,Apollo Hospital,Allergy
+R05787,Aarav Chowdhury,40,M,A+,Pancreas,HLA-A,2,Gujarat,aaravchowdhury1395@gmail.com,Fortis Medical Centre,Obesity
+R08519,Aanya Iyer,41,F,B+,Pancreas,HLA-A,0,Uttarakhand,aanyaiyer9851@gmail.com,Narayana Clinic,Thyroid disorder
+R06851,Tanya Kumar,12,F,AB-,Heart,HLA-B,0,Karnataka,tanyakumar6925@gmail.com,Global Healthcare,Diabetes
+R01517,Rahul Sharma,56,M,O-,Heart,HLA-B,0,Uttarakhand,rahulsharma8072@gmail.com,Max Clinic,Chronic Kidney Disease
+R05099,Nisha Banerjee,7,F,O-,Lung,HLA-A,2,Sikkim,nishabanerjee2742@gmail.com,Sri Super Speciality Hospital,Allergy
+R07637,Pranav Chopra,42,M,O-,Kidney,HLA-A,2,Mizoram,pranavchopra8325@gmail.com,Max Clinic,Cardiac disease
+R09086,Riya Kapoor,20,F,AB-,Cornea,HLA-A,1,Maharashtra,riyakapoor399@gmail.com,Narayana Healthcare,Thyroid disorder
+R08024,Saanvi Iyer,25,F,O+,Heart,HLA-A,1,Bihar,saanviiyer5461@gmail.com,Global Healthcare,Diabetes
+R02393,Rohan Mehta,64,M,O+,Lung,HLA-DR,1,Odisha,rohanmehta7819@gmail.com,Columbia Asia Hospital,Hepatitis
+R00587,Anjali Khan,15,F,O-,Heart,HLA-DR,2,Sikkim,anjalikhan5977@gmail.com,NM Hospital Clinic,Allergy
+R03520,Ananya Joshi,59,F,O+,Heart,HLA-B,1,Karnataka,ananyajoshi7273@gmail.com,NM Hospital Healthcare,Obesity
+R07654,Suraj Nair,22,M,B-,Pancreas,HLA-B,1,Haryana,surajnair651@gmail.com,Fortis Institute of Medical Sciences,Smoker
+R08947,Karan Singh,17,M,O-,Lung,HLA-B,2,Karnataka,karansingh3087@gmail.com,Care Medical Centre,Allergy
+R00851,Aditya Patel,46,M,B-,Liver,HLA-DR,1,Bihar,adityapatel554@gmail.com,Narayana Hospital,Smoker
+R00336,Amit Joshi,9,M,O+,Liver,HLA-B,0,Andhra Pradesh,amitjoshi3936@gmail.com,Ruby Hall Super Speciality Hospital,Cardiac disease
+R06635,Sneha Khan,34,F,A+,Pancreas,HLA-A,2,Rajasthan,snehakhan8848@gmail.com,NM Hospital Medical Centre,Alcohol use
+R08973,Meera Ghosh,35,F,B+,Heart,HLA-DR,0,Rajasthan,meeraghosh34@gmail.com,Manipal Medical Centre,Hepatitis
+R07494,Aarav Rao,54,M,O-,Kidney,HLA-B,0,Bihar,aaravrao4277@gmail.com,Kokilaben Hospital,Cardiac disease
+R02869,Sneha Banerjee,10,F,A-,Heart,HLA-B,0,Manipur,snehabanerjee682@gmail.com,Kokilaben Hospital,Cardiac disease
+R04873,Aishwarya Kapoor,48,F,O-,Lung,HLA-A,1,Tamil Nadu,aishwaryakapoor3997@gmail.com,Medanta Institute of Medical Sciences,None
+R03551,Sneha Kapoor,59,F,AB+,Kidney,HLA-B,0,Delhi,snehakapoor6245@gmail.com,Max Medical Centre,Diabetes
+R03843,Rohan Khan,49,M,A-,Liver,HLA-B,1,Bihar,rohankhan2161@gmail.com,AIIMS Healthcare,Allergy
+R07263,Sanjay Jain,10,M,AB+,Kidney,HLA-A,0,Rajasthan,sanjayjain7848@gmail.com,Narayana Medical Centre,Cardiac disease
+R05825,Aishwarya Gupta,58,F,O+,Kidney,HLA-A,0,Jammu and Kashmir,aishwaryagupta8974@gmail.com,NM Hospital Clinic,Alcohol use
+R00024,Aditya Kumar,45,M,B-,Cornea,HLA-B,2,Daman and Diu,adityakumar1216@gmail.com,Medanta Medical Centre,Asthma
+R01454,Pranav Chopra,16,M,B-,Pancreas,HLA-DR,2,Assam,pranavchopra1784@gmail.com,Global Hospital,Asthma
+R01685,Aishwarya Sharma,49,F,AB-,Heart,HLA-A,1,Punjab,aishwaryasharma9531@gmail.com,AIIMS Institute of Medical Sciences,Hypertension
+R02311,Pavitra Banerjee,54,F,B+,Lung,HLA-A,1,Assam,pavitrabanerjee9853@gmail.com,KIMS Super Speciality Hospital,Smoker
+R09064,Aishwarya Rao,9,F,O-,Lung,HLA-DR,0,Himachal Pradesh,aishwaryarao9997@gmail.com,Care Hospital,Alcohol use
+R09407,Nisha Kapoor,17,F,A+,Kidney,HLA-B,1,Lakshadweep,nishakapoor424@gmail.com,Narayana Hospital,Allergy
+R00382,Aanya Singh,48,F,A-,Heart,HLA-A,0,Lakshadweep,aanyasingh6637@gmail.com,Narayana Institute of Medical Sciences,Allergy
+R05815,Yash Sharma,46,M,O+,Cornea,HLA-DR,0,Jharkhand,yashsharma8824@gmail.com,Apollo Institute of Medical Sciences,Alcohol use
+R05551,Isha Kapoor,24,F,O-,Liver,HLA-B,1,West Bengal,ishakapoor5571@gmail.com,Sri Healthcare,Smoker
+R09309,Sneha Nair,47,F,A+,Heart,HLA-DR,1,Himachal Pradesh,snehanair8778@gmail.com,Manipal Clinic,Chronic Kidney Disease
+R01619,Saanvi Nair,52,F,AB-,Lung,HLA-DR,0,Sikkim,saanvinair7892@gmail.com,Global Clinic,Diabetes
+R00790,Tanya Jain,30,F,O+,Cornea,HLA-DR,0,Dadra and Nagar Haveli,tanyajain2417@gmail.com,Columbia Asia Medical Centre,Thyroid disorder
+R05984,Saanvi Mehta,15,F,O+,Lung,HLA-A,2,Delhi,saanvimehta9838@gmail.com,Kokilaben Super Speciality Hospital,Chronic Kidney Disease
+R08673,Sakshi Verma,64,F,O+,Kidney,HLA-DR,0,Bihar,sakshiverma6554@gmail.com,Apollo Clinic,Alcohol use
+R04476,Pavitra Nair,60,F,AB-,Pancreas,HLA-DR,2,Sikkim,pavitranair7155@gmail.com,Max Healthcare,Thyroid disorder
+R05607,Aarav Joshi,55,M,O-,Liver,HLA-A,1,Sikkim,aaravjoshi3814@gmail.com,KIMS Healthcare,Chronic Kidney Disease
+R09313,Manish Kumar,70,M,B+,Pancreas,HLA-DR,0,Jammu and Kashmir,manishkumar6349@gmail.com,Max Hospital,Thyroid disorder
+R05649,Anjali Ghosh,1,F,B-,Liver,HLA-DR,2,Haryana,anjalighosh4276@gmail.com,Medanta Clinic,Diabetes
+R06217,Neha Sharma,64,F,A+,Pancreas,HLA-DR,1,Uttar Pradesh,nehasharma9240@gmail.com,Kokilaben Institute of Medical Sciences,Hypertension
+R02287,Nisha Khan,50,F,O-,Kidney,HLA-DR,2,Himachal Pradesh,nishakhan4240@gmail.com,Care Healthcare,Hypertension
+R09994,Kavya Mehta,36,F,AB-,Lung,HLA-B,0,Bihar,kavyamehta3986@gmail.com,Global Institute of Medical Sciences,Smoker
+R07579,Divya Singh,20,F,B+,Heart,HLA-DR,1,Maharashtra,divyasingh1611@gmail.com,Columbia Asia Medical Centre,Thyroid disorder
+R01184,Vihaan Banerjee,6,M,A-,Kidney,HLA-DR,0,Jharkhand,vihaanbanerjee3812@gmail.com,Medanta Institute of Medical Sciences,Asthma
+R06002,Deepika Chopra,45,F,AB-,Pancreas,HLA-A,0,Manipur,deepikachopra1515@gmail.com,AIIMS Clinic,Cardiac disease
+R05091,Divya Mehta,61,F,O-,Cornea,HLA-B,1,Gujarat,divyamehta3534@gmail.com,Columbia Asia Super Speciality Hospital,Asthma
+R02517,Rajesh Banerjee,35,M,AB-,Pancreas,HLA-A,0,Uttarakhand,rajeshbanerjee7303@gmail.com,Medanta Healthcare,Hepatitis
+R04123,Aditya Singh,48,M,O+,Cornea,HLA-B,1,Lakshadweep,adityasingh7520@gmail.com,Kokilaben Institute of Medical Sciences,Obesity
+R05522,Sanjay Kapoor,54,M,AB-,Lung,HLA-B,1,Lakshadweep,sanjaykapoor442@gmail.com,Apollo Healthcare,None
+R05628,Sanjay Bose,58,M,O-,Kidney,HLA-B,0,Chandigarh,sanjaybose2493@gmail.com,Apollo Hospital,Thyroid disorder
+R08361,Priya Patel,29,F,B-,Lung,HLA-B,0,Lakshadweep,priyapatel289@gmail.com,AIIMS Super Speciality Hospital,Smoker
+R05873,Isha Ghosh,45,F,B-,Heart,HLA-B,1,Himachal Pradesh,ishaghosh6364@gmail.com,KIMS Clinic,Cardiac disease
+R08613,Vijay Kumar,13,M,O-,Cornea,HLA-DR,1,Puducherry,vijaykumar7105@gmail.com,Sri Hospital,Cardiac disease
+R07728,Shruti Khan,40,F,O+,Cornea,HLA-A,1,Dadra and Nagar Haveli,shrutikhan7086@gmail.com,Ruby Hall Super Speciality Hospital,Cardiac disease
+R05969,Rajesh Jain,5,M,AB-,Lung,HLA-DR,1,Tripura,rajeshjain5054@gmail.com,Global Healthcare,Previous surgery
+R01181,Manish Sharma,68,M,B+,Liver,HLA-A,0,Manipur,manishsharma4094@gmail.com,Care Super Speciality Hospital,Smoker
+R08763,Karan Khan,66,M,AB+,Kidney,HLA-DR,1,Mizoram,karankhan6634@gmail.com,Narayana Super Speciality Hospital,Hypertension
+R08236,Sakshi Gupta,75,F,B+,Cornea,HLA-A,0,Meghalaya,sakshigupta3260@gmail.com,Care Super Speciality Hospital,Smoker
+R02819,Meera Chowdhury,32,F,A-,Pancreas,HLA-A,0,Lakshadweep,meerachowdhury2149@gmail.com,Fortis Medical Centre,Alcohol use
+R09965,Pooja Ghosh,61,F,AB-,Cornea,HLA-DR,2,Goa,poojaghosh2013@gmail.com,Fortis Healthcare,Thyroid disorder
+R08704,Neha Patel,41,F,AB+,Heart,HLA-A,0,Sikkim,nehapatel2114@gmail.com,Apollo Clinic,Chronic Kidney Disease
+R06609,Rahul Banerjee,72,M,B+,Kidney,HLA-DR,2,Maharashtra,rahulbanerjee1473@gmail.com,Sri Clinic,Diabetes
+R02821,Isha Khan,19,F,B-,Lung,HLA-A,1,Manipur,ishakhan1120@gmail.com,Sri Clinic,Asthma
+R07536,Pranav Singh,16,M,AB-,Lung,HLA-DR,0,Assam,pranavsingh1292@gmail.com,KIMS Super Speciality Hospital,Diabetes
+R02261,Shruti Verma,33,F,A+,Pancreas,HLA-DR,2,Assam,shrutiverma3242@gmail.com,Kokilaben Medical Centre,Thyroid disorder
+R02240,Isha Kumar,40,F,A-,Liver,HLA-A,0,Haryana,ishakumar4621@gmail.com,Fortis Institute of Medical Sciences,Hypertension
+R06022,Vivaan Singh,61,M,AB-,Lung,HLA-B,2,Uttarakhand,vivaansingh1260@gmail.com,Ruby Hall Super Speciality Hospital,Obesity
+R00783,Aniket Verma,15,M,AB-,Cornea,HLA-B,1,Meghalaya,aniketverma5710@gmail.com,Kokilaben Healthcare,Alcohol use
+R00933,Aishwarya Sharma,53,F,O+,Lung,HLA-DR,1,Bihar,aishwaryasharma1810@gmail.com,Kokilaben Hospital,None
+R06203,Kavya Chopra,11,F,B-,Cornea,HLA-DR,1,Goa,kavyachopra9292@gmail.com,Kokilaben Clinic,Smoker
+R02413,Divya Patel,22,F,B-,Liver,HLA-DR,1,Rajasthan,divyapatel3086@gmail.com,Max Medical Centre,Hypertension
+R06998,Vihaan Khan,3,M,A-,Heart,HLA-B,0,Mizoram,vihaankhan1589@gmail.com,Columbia Asia Hospital,Chronic Kidney Disease
+R09116,Anjali Nair,35,F,AB-,Heart,HLA-DR,2,Karnataka,anjalinair5749@gmail.com,Medanta Clinic,Diabetes
+R01157,Aniket Khan,66,M,O-,Heart,HLA-A,1,Tamil Nadu,aniketkhan3303@gmail.com,Fortis Super Speciality Hospital,Alcohol use
+R08108,Saanvi Chowdhury,37,F,B-,Liver,HLA-A,1,Assam,saanvichowdhury9895@gmail.com,Care Super Speciality Hospital,Chronic Kidney Disease
+R05806,Vivaan Chowdhury,47,M,A+,Liver,HLA-B,1,Arunachal Pradesh,vivaanchowdhury6386@gmail.com,AIIMS Institute of Medical Sciences,None
+R04880,Sneha Patel,66,F,A+,Kidney,HLA-DR,2,Maharashtra,snehapatel8522@gmail.com,Sri Institute of Medical Sciences,Previous surgery
+R03310,Pooja Jain,69,F,B+,Lung,HLA-A,1,Andhra Pradesh,poojajain2014@gmail.com,Narayana Medical Centre,Diabetes
+R08962,Manish Kumar,5,M,AB+,Liver,HLA-DR,0,Daman and Diu,manishkumar1274@gmail.com,Ruby Hall Healthcare,Smoker
+R01703,Vivaan Khan,9,M,AB+,Liver,HLA-B,1,Punjab,vivaankhan7231@gmail.com,Kokilaben Healthcare,Obesity
+R02493,Aanya Gupta,43,F,O+,Pancreas,HLA-A,0,Sikkim,aanyagupta4661@gmail.com,Manipal Healthcare,Diabetes
+R03707,Tanya Kumar,14,F,A+,Pancreas,HLA-A,0,Odisha,tanyakumar4411@gmail.com,Ruby Hall Institute of Medical Sciences,Asthma
+R08277,Aishwarya Jain,8,F,B-,Lung,HLA-DR,1,Ladakh,aishwaryajain4762@gmail.com,Kokilaben Super Speciality Hospital,Alcohol use
+R00287,Aishwarya Nair,66,F,AB+,Pancreas,HLA-A,1,Nagaland,aishwaryanair4088@gmail.com,Medanta Healthcare,Previous surgery
+R01609,Vihaan Khan,15,M,A-,Pancreas,HLA-A,1,Meghalaya,vihaankhan3838@gmail.com,Narayana Healthcare,Allergy
+R06632,Karan Chowdhury,4,M,AB+,Liver,HLA-DR,0,Punjab,karanchowdhury6869@gmail.com,Max Super Speciality Hospital,Thyroid disorder
+R08279,Nisha Kumar,40,F,AB+,Kidney,HLA-DR,0,West Bengal,nishakumar9845@gmail.com,Global Hospital,Allergy
+R07316,Ananya Kumar,39,F,AB-,Cornea,HLA-A,0,Jammu and Kashmir,ananyakumar61@gmail.com,Sri Super Speciality Hospital,Obesity
+R02253,Aditya Joshi,67,M,A-,Kidney,HLA-A,2,Lakshadweep,adityajoshi6306@gmail.com,Max Medical Centre,Chronic Kidney Disease
+R07416,Arjun Reddy,2,M,A-,Kidney,HLA-B,2,Meghalaya,arjunreddy6937@gmail.com,KIMS Hospital,Asthma
+R08366,Aditya Chowdhury,27,M,O+,Pancreas,HLA-DR,2,Andaman and Nicobar Islands,adityachowdhury1861@gmail.com,KIMS Super Speciality Hospital,Smoker
+R01892,Deepika Bose,27,F,O-,Lung,HLA-A,1,Goa,deepikabose1779@gmail.com,KIMS Hospital,Alcohol use
+R05063,Riya Patel,70,F,AB+,Liver,HLA-A,2,Gujarat,riyapatel9896@gmail.com,Apollo Healthcare,Alcohol use
+R06121,Divya Banerjee,66,F,A-,Liver,HLA-A,2,Andaman and Nicobar Islands,divyabanerjee8741@gmail.com,Kokilaben Super Speciality Hospital,None
+R00564,Sanjay Bose,53,M,O+,Liver,HLA-A,0,Karnataka,sanjaybose548@gmail.com,Columbia Asia Super Speciality Hospital,Cardiac disease
+R00292,Siddharth Iyer,57,M,O+,Pancreas,HLA-B,0,Nagaland,siddharthiyer726@gmail.com,Medanta Clinic,Asthma
+R04717,Shruti Kapoor,59,F,O+,Heart,HLA-A,0,Uttar Pradesh,shrutikapoor4415@gmail.com,Medanta Medical Centre,None
+R07709,Ananya Joshi,52,F,B+,Lung,HLA-DR,0,Chhattisgarh,ananyajoshi6525@gmail.com,Care Clinic,Hypertension
+R06350,Aditya Rao,30,M,AB+,Cornea,HLA-B,1,Daman and Diu,adityarao6475@gmail.com,Apollo Super Speciality Hospital,None
+R00170,Aditya Mehta,58,M,B+,Pancreas,HLA-A,1,Dadra and Nagar Haveli,adityamehta9480@gmail.com,Ruby Hall Clinic,Chronic Kidney Disease
+R00268,Aarav Khan,75,M,A+,Pancreas,HLA-B,0,Uttarakhand,aaravkhan6716@gmail.com,Sri Clinic,Previous surgery
+R04639,Manish Sharma,39,M,B+,Heart,HLA-DR,2,Nagaland,manishsharma7363@gmail.com,Max Clinic,Chronic Kidney Disease
+R07078,Vivaan Gupta,21,M,AB+,Lung,HLA-A,0,Himachal Pradesh,vivaangupta7213@gmail.com,Care Clinic,Smoker
+R03356,Ananya Khan,54,F,B+,Lung,HLA-A,0,Lakshadweep,ananyakhan5968@gmail.com,Max Medical Centre,Hypertension
+R08280,Kunal Sharma,35,M,AB-,Liver,HLA-B,0,West Bengal,kunalsharma9419@gmail.com,Narayana Super Speciality Hospital,Cardiac disease
+R00316,Rajesh Chopra,37,M,O-,Liver,HLA-B,1,Tamil Nadu,rajeshchopra1599@gmail.com,Apollo Hospital,Chronic Kidney Disease
+R06729,Nisha Gupta,19,F,AB-,Liver,HLA-B,2,Uttar Pradesh,nishagupta5533@gmail.com,KIMS Super Speciality Hospital,Asthma
+R09496,Priya Mehta,17,F,B-,Cornea,HLA-A,0,Chhattisgarh,priyamehta5676@gmail.com,NM Hospital Clinic,Cardiac disease
+R04068,Siddharth Sharma,6,M,O+,Kidney,HLA-DR,2,Manipur,siddharthsharma3651@gmail.com,Ruby Hall Healthcare,Previous surgery
+R00246,Arjun Patel,9,M,B-,Kidney,HLA-DR,1,Goa,arjunpatel3161@gmail.com,Kokilaben Institute of Medical Sciences,None
+R00253,Abhishek Khan,32,M,A+,Liver,HLA-B,1,Punjab,abhishekkhan3738@gmail.com,Care Institute of Medical Sciences,Allergy
+R01112,Sneha Rao,30,F,B+,Kidney,HLA-DR,2,Andhra Pradesh,sneharao2058@gmail.com,Ruby Hall Institute of Medical Sciences,Asthma
+R04802,Meera Kumar,10,F,B-,Cornea,HLA-DR,2,Bihar,meerakumar4977@gmail.com,Sri Medical Centre,Obesity
+R01714,Vihaan Ghosh,25,M,O+,Cornea,HLA-DR,0,Chhattisgarh,vihaanghosh3631@gmail.com,Kokilaben Institute of Medical Sciences,Obesity
+R00051,Karan Banerjee,40,M,O+,Liver,HLA-DR,2,Gujarat,karanbanerjee2616@gmail.com,Global Healthcare,Hypertension
+R01836,Riya Chowdhury,14,F,B-,Kidney,HLA-B,0,Manipur,riyachowdhury8354@gmail.com,Max Institute of Medical Sciences,Hepatitis
+R07897,Rajesh Ghosh,43,M,A+,Lung,HLA-A,2,Andhra Pradesh,rajeshghosh5080@gmail.com,Kokilaben Hospital,Asthma
+R03384,Saanvi Mehta,15,F,AB-,Liver,HLA-DR,1,Kerala,saanvimehta4461@gmail.com,Medanta Super Speciality Hospital,Thyroid disorder
+R06411,Sanjay Singh,40,M,AB-,Lung,HLA-A,1,Arunachal Pradesh,sanjaysingh4146@gmail.com,Narayana Healthcare,Hypertension
+R04314,Meera Patel,64,F,B-,Kidney,HLA-DR,0,Uttarakhand,meerapatel3659@gmail.com,NM Hospital Institute of Medical Sciences,Smoker
+R00873,Abhishek Joshi,46,M,AB-,Liver,HLA-DR,0,Odisha,abhishekjoshi6927@gmail.com,KIMS Institute of Medical Sciences,Smoker
+R01255,Karan Joshi,42,M,O-,Liver,HLA-A,0,Chandigarh,karanjoshi9234@gmail.com,Ruby Hall Hospital,Chronic Kidney Disease
+R08882,Yash Chopra,60,M,AB-,Lung,HLA-A,1,Uttarakhand,yashchopra281@gmail.com,NM Hospital Medical Centre,Cardiac disease
+R05852,Amit Mehta,75,M,O-,Liver,HLA-A,2,Andhra Pradesh,amitmehta762@gmail.com,NM Hospital Healthcare,Asthma
+R05703,Suraj Reddy,41,M,B-,Cornea,HLA-B,1,Jammu and Kashmir,surajreddy5580@gmail.com,Sri Super Speciality Hospital,Thyroid disorder
+R08104,Pranav Verma,58,M,A-,Kidney,HLA-A,1,Uttar Pradesh,pranavverma1681@gmail.com,Narayana Clinic,Hypertension
+R02099,Pooja Patel,68,F,A+,Liver,HLA-DR,2,Meghalaya,poojapatel2439@gmail.com,Sri Institute of Medical Sciences,Obesity
+R05129,Aarav Banerjee,58,M,AB+,Liver,HLA-A,2,Odisha,aaravbanerjee9004@gmail.com,AIIMS Healthcare,Asthma
+R00249,Sneha Singh,11,F,A-,Cornea,HLA-DR,0,Kerala,snehasingh5422@gmail.com,Sri Super Speciality Hospital,Asthma
+R06562,Pavitra Kumar,31,F,AB+,Pancreas,HLA-B,1,Meghalaya,pavitrakumar7331@gmail.com,Sri Super Speciality Hospital,Cardiac disease
+R01340,Yash Ghosh,30,M,A+,Liver,HLA-B,1,Chandigarh,yashghosh9910@gmail.com,Sri Super Speciality Hospital,Diabetes
+R07018,Neha Nair,42,F,B+,Kidney,HLA-A,1,Lakshadweep,nehanair4035@gmail.com,KIMS Institute of Medical Sciences,Cardiac disease
+R02111,Saanvi Chopra,42,F,O-,Pancreas,HLA-A,1,Andaman and Nicobar Islands,saanvichopra3049@gmail.com,Sri Medical Centre,Diabetes
+R01570,Pooja Chopra,32,F,B-,Heart,HLA-A,2,Delhi,poojachopra8613@gmail.com,Care Hospital,Allergy
+R01727,Pranav Kapoor,64,M,O+,Kidney,HLA-B,1,Puducherry,pranavkapoor1279@gmail.com,Fortis Hospital,Asthma
+R08385,Vihaan Singh,18,M,B-,Kidney,HLA-B,1,Manipur,vihaansingh3528@gmail.com,Sri Clinic,Hypertension
+R06941,Siddharth Sharma,66,M,A-,Kidney,HLA-DR,0,Rajasthan,siddharthsharma6324@gmail.com,Sri Hospital,Hypertension
+R04396,Abhishek Banerjee,22,M,A-,Liver,HLA-A,2,Delhi,abhishekbanerjee2939@gmail.com,Narayana Healthcare,Cardiac disease
+R02421,Karan Bose,67,M,A+,Kidney,HLA-B,1,Mizoram,karanbose8492@gmail.com,Care Healthcare,Chronic Kidney Disease
+R03046,Pavitra Iyer,61,F,B-,Kidney,HLA-B,1,Manipur,pavitraiyer6343@gmail.com,Medanta Clinic,Diabetes
+R05504,Rohan Khan,8,M,B-,Liver,HLA-A,2,Nagaland,rohankhan7695@gmail.com,Apollo Institute of Medical Sciences,Hepatitis
+R03704,Neha Kapoor,65,F,A+,Liver,HLA-A,1,Meghalaya,nehakapoor1134@gmail.com,Kokilaben Clinic,Hepatitis
+R08192,Rajesh Ghosh,7,M,A+,Pancreas,HLA-A,2,Daman and Diu,rajeshghosh6080@gmail.com,Narayana Healthcare,Allergy
+R05332,Siddharth Kumar,63,M,AB-,Lung,HLA-DR,0,Tripura,siddharthkumar5044@gmail.com,Apollo Clinic,Smoker
+R09809,Siddharth Sharma,50,M,B+,Cornea,HLA-B,1,Odisha,siddharthsharma8425@gmail.com,Fortis Clinic,Asthma
+R00448,Pranav Verma,8,M,B-,Pancreas,HLA-A,0,Tripura,pranavverma2789@gmail.com,Kokilaben Medical Centre,Hypertension
+R07895,Karan Chopra,43,M,AB+,Lung,HLA-DR,1,Chandigarh,karanchopra2080@gmail.com,Apollo Clinic,Cardiac disease
+R08729,Karan Banerjee,4,M,O-,Kidney,HLA-A,2,Kerala,karanbanerjee5466@gmail.com,Manipal Hospital,Cardiac disease
+R07829,Siddharth Iyer,64,M,A+,Kidney,HLA-A,2,Jharkhand,siddharthiyer1230@gmail.com,Manipal Institute of Medical Sciences,Previous surgery
+R01769,Vivaan Sharma,52,M,B+,Kidney,HLA-DR,2,Himachal Pradesh,vivaansharma5634@gmail.com,NM Hospital Healthcare,Previous surgery
+R06809,Abhishek Patel,8,M,B+,Cornea,HLA-DR,2,Sikkim,abhishekpatel9307@gmail.com,Care Medical Centre,None
+R04705,Deepika Kumar,61,F,O+,Kidney,HLA-A,0,Rajasthan,deepikakumar1914@gmail.com,NM Hospital Hospital,Diabetes
+R03870,Anjali Kumar,3,F,O+,Pancreas,HLA-A,2,Dadra and Nagar Haveli,anjalikumar7802@gmail.com,Fortis Super Speciality Hospital,Previous surgery
+R01656,Aditya Joshi,59,M,B-,Cornea,HLA-A,1,Tripura,adityajoshi4524@gmail.com,KIMS Clinic,Alcohol use
+R03188,Sakshi Ghosh,11,F,O-,Heart,HLA-A,2,Rajasthan,sakshighosh3431@gmail.com,Max Super Speciality Hospital,Diabetes
+R00684,Aishwarya Jain,62,F,A+,Cornea,HLA-B,1,Jammu and Kashmir,aishwaryajain135@gmail.com,Manipal Institute of Medical Sciences,None
+R04171,Manish Bose,54,M,AB+,Heart,HLA-B,2,Lakshadweep,manishbose6034@gmail.com,Manipal Healthcare,Cardiac disease
+R04478,Rohan Ghosh,37,M,A-,Kidney,HLA-DR,2,Himachal Pradesh,rohanghosh478@gmail.com,Care Healthcare,Chronic Kidney Disease
+R00462,Arjun Banerjee,29,M,B+,Heart,HLA-DR,2,Assam,arjunbanerjee7739@gmail.com,Sri Hospital,Hypertension
+R05765,Yash Khan,64,M,B-,Pancreas,HLA-A,0,Maharashtra,yashkhan1458@gmail.com,AIIMS Clinic,Hypertension
+R07523,Abhishek Iyer,54,M,O-,Heart,HLA-B,1,Jharkhand,abhishekiyer6970@gmail.com,KIMS Institute of Medical Sciences,Diabetes
+R04503,Anjali Khan,35,F,AB+,Liver,HLA-A,1,Tamil Nadu,anjalikhan4960@gmail.com,AIIMS Healthcare,Asthma
+R09710,Rajesh Chowdhury,43,M,A+,Cornea,HLA-A,0,Telangana,rajeshchowdhury9187@gmail.com,Global Healthcare,Cardiac disease
+R00319,Siddharth Iyer,70,M,A+,Pancreas,HLA-DR,2,Bihar,siddharthiyer8996@gmail.com,Fortis Super Speciality Hospital,None
+R01146,Yash Singh,27,M,A-,Liver,HLA-A,2,Ladakh,yashsingh8878@gmail.com,NM Hospital Healthcare,Smoker
+R05095,Pranav Singh,15,M,O+,Liver,HLA-B,1,Tamil Nadu,pranavsingh6431@gmail.com,Manipal Super Speciality Hospital,Previous surgery
+R01394,Aniket Iyer,7,M,AB+,Kidney,HLA-DR,1,Lakshadweep,aniketiyer129@gmail.com,Fortis Clinic,None
+R06624,Suraj Khan,74,M,AB-,Lung,HLA-A,0,Himachal Pradesh,surajkhan3626@gmail.com,NM Hospital Institute of Medical Sciences,Smoker
+R01502,Aanya Rao,21,F,A+,Cornea,HLA-A,1,Gujarat,aanyarao5218@gmail.com,NM Hospital Medical Centre,Alcohol use
+R06409,Anjali Banerjee,26,F,AB-,Lung,HLA-A,2,Punjab,anjalibanerjee202@gmail.com,Global Institute of Medical Sciences,Previous surgery
+R00377,Aishwarya Banerjee,20,F,AB-,Cornea,HLA-A,1,Chhattisgarh,aishwaryabanerjee1210@gmail.com,Apollo Institute of Medical Sciences,None
+R00411,Divya Chowdhury,6,F,A-,Liver,HLA-A,1,Mizoram,divyachowdhury216@gmail.com,Ruby Hall Medical Centre,Chronic Kidney Disease
+R01661,Anjali Banerjee,52,F,B-,Liver,HLA-B,2,Tripura,anjalibanerjee2757@gmail.com,Fortis Hospital,Allergy
+R03152,Tanya Iyer,59,F,A-,Kidney,HLA-B,2,Puducherry,tanyaiyer5232@gmail.com,Narayana Medical Centre,Diabetes
+R01624,Rohan Patel,32,M,A+,Heart,HLA-A,1,Uttarakhand,rohanpatel6402@gmail.com,Narayana Hospital,Chronic Kidney Disease
+R05610,Yash Ghosh,19,M,B-,Lung,HLA-DR,0,Gujarat,yashghosh4764@gmail.com,Apollo Medical Centre,Chronic Kidney Disease
+R08533,Riya Rao,1,F,O+,Cornea,HLA-B,0,Assam,riyarao406@gmail.com,Kokilaben Clinic,Asthma
+R05803,Aishwarya Ghosh,56,F,AB+,Heart,HLA-DR,0,Gujarat,aishwaryaghosh325@gmail.com,Columbia Asia Institute of Medical Sciences,Previous surgery
+R05307,Nisha Kumar,66,F,B-,Kidney,HLA-DR,0,Tripura,nishakumar1414@gmail.com,KIMS Medical Centre,Smoker
+R07087,Pooja Banerjee,27,F,O+,Kidney,HLA-A,2,Madhya Pradesh,poojabanerjee9311@gmail.com,Fortis Healthcare,None
+R08898,Priya Gupta,14,F,B-,Kidney,HLA-DR,1,Bihar,priyagupta233@gmail.com,Ruby Hall Institute of Medical Sciences,Diabetes
+R07489,Rahul Banerjee,41,M,B+,Heart,HLA-A,2,Arunachal Pradesh,rahulbanerjee4510@gmail.com,Narayana Clinic,Chronic Kidney Disease
+R09616,Aishwarya Khan,1,F,O-,Lung,HLA-DR,2,Chandigarh,aishwaryakhan2805@gmail.com,Manipal Healthcare,Smoker
+R09218,Rahul Patel,26,M,AB+,Cornea,HLA-A,0,Arunachal Pradesh,rahulpatel1479@gmail.com,Max Medical Centre,Alcohol use
+R01673,Pranav Verma,41,M,O-,Kidney,HLA-B,1,Madhya Pradesh,pranavverma1762@gmail.com,Apollo Healthcare,Allergy
+R02359,Sakshi Bose,69,F,AB-,Heart,HLA-A,1,Puducherry,sakshibose1139@gmail.com,Sri Healthcare,Asthma
+R08468,Nisha Patel,68,F,AB-,Pancreas,HLA-DR,2,Maharashtra,nishapatel3125@gmail.com,Fortis Clinic,Alcohol use
+R00275,Pavitra Kumar,74,F,O+,Heart,HLA-DR,2,Kerala,pavitrakumar962@gmail.com,Sri Super Speciality Hospital,Allergy
+R02474,Pooja Kumar,45,F,B+,Kidney,HLA-B,0,Assam,poojakumar9624@gmail.com,KIMS Medical Centre,Allergy
+R05490,Aniket Khan,38,M,O-,Pancreas,HLA-DR,1,Nagaland,aniketkhan5421@gmail.com,KIMS Institute of Medical Sciences,Previous surgery
+R04772,Abhishek Sharma,55,M,AB+,Pancreas,HLA-DR,0,Dadra and Nagar Haveli,abhisheksharma5381@gmail.com,Care Clinic,Diabetes
+R02108,Sneha Gupta,19,F,O+,Cornea,HLA-A,0,West Bengal,snehagupta5478@gmail.com,KIMS Healthcare,Diabetes
+R07501,Suraj Chopra,47,M,B-,Cornea,HLA-A,1,Nagaland,surajchopra8396@gmail.com,Kokilaben Medical Centre,Hepatitis
+R04415,Siddharth Banerjee,66,M,O+,Cornea,HLA-A,0,West Bengal,siddharthbanerjee5783@gmail.com,Sri Super Speciality Hospital,Alcohol use
+R08139,Arjun Patel,65,M,AB+,Heart,HLA-B,1,Dadra and Nagar Haveli,arjunpatel4585@gmail.com,Care Healthcare,Obesity
+R08661,Yash Sharma,49,M,AB-,Kidney,HLA-A,2,Himachal Pradesh,yashsharma4140@gmail.com,Manipal Medical Centre,Cardiac disease
+R08240,Sakshi Banerjee,40,F,A-,Kidney,HLA-A,2,Karnataka,sakshibanerjee8280@gmail.com,Care Super Speciality Hospital,Obesity
+R02418,Tanya Kumar,54,F,O+,Kidney,HLA-B,1,Lakshadweep,tanyakumar1745@gmail.com,NM Hospital Hospital,Hepatitis
+R08772,Karan Chopra,45,M,AB-,Cornea,HLA-A,2,Maharashtra,karanchopra9217@gmail.com,Sri Super Speciality Hospital,Smoker
+R02237,Anjali Joshi,33,F,AB+,Heart,HLA-B,1,Maharashtra,anjalijoshi5686@gmail.com,Manipal Institute of Medical Sciences,Diabetes
+R03768,Sanjay Ghosh,7,M,A-,Cornea,HLA-A,2,West Bengal,sanjayghosh3736@gmail.com,Manipal Super Speciality Hospital,Thyroid disorder
+R09792,Pranav Gupta,44,M,B-,Liver,HLA-DR,1,Chandigarh,pranavgupta3711@gmail.com,KIMS Healthcare,Obesity
+R09990,Anjali Patel,2,F,B-,Liver,HLA-B,1,Arunachal Pradesh,anjalipatel1641@gmail.com,Global Hospital,Smoker
+R09966,Vihaan Singh,29,M,A-,Cornea,HLA-B,0,Himachal Pradesh,vihaansingh3971@gmail.com,Manipal Hospital,Obesity
+R07324,Anjali Chowdhury,70,F,O+,Heart,HLA-B,0,Ladakh,anjalichowdhury9990@gmail.com,Global Clinic,Previous surgery
+R01384,Yash Verma,59,M,B-,Cornea,HLA-DR,1,Assam,yashverma327@gmail.com,NM Hospital Institute of Medical Sciences,Hypertension
+R03102,Manish Chowdhury,55,M,AB-,Lung,HLA-DR,0,Manipur,manishchowdhury35@gmail.com,Sri Healthcare,Hepatitis
+R03922,Nisha Iyer,25,F,A-,Lung,HLA-DR,2,Himachal Pradesh,nishaiyer4070@gmail.com,AIIMS Clinic,Thyroid disorder
+R06686,Kunal Bose,2,M,AB+,Heart,HLA-A,1,Gujarat,kunalbose7358@gmail.com,Fortis Super Speciality Hospital,Chronic Kidney Disease
+R03195,Siddharth Verma,10,M,A+,Pancreas,HLA-A,2,Meghalaya,siddharthverma1543@gmail.com,Kokilaben Super Speciality Hospital,Cardiac disease
+R01942,Abhishek Kapoor,3,M,AB-,Lung,HLA-DR,2,Haryana,abhishekkapoor8009@gmail.com,Kokilaben Institute of Medical Sciences,Thyroid disorder
+R07714,Sneha Verma,13,F,A+,Pancreas,HLA-B,2,Rajasthan,snehaverma3091@gmail.com,Kokilaben Super Speciality Hospital,Hypertension
