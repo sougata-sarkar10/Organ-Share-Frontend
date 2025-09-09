@@ -6,9 +6,9 @@ A **MERN Stack Web Application** designed to connect **donors, recipients, and h
 
 ## 👥 Team Members  
 - 👨‍💻 Sougata Sarkar  
-- 👩‍💻 [Teammate 2 Name]  
-- 👨‍💻 [Teammate 3 Name]  
-- 👩‍💻 [Teammate 4 Name]  
+- 👩‍💻 Raj Sarkar  
+- 👨‍💻 Indranil Dhara  
+- 👩‍💻 Tamal  
 *(Add all contributors here)*  
 
 ---
@@ -37,10 +37,10 @@ A **MERN Stack Web Application** designed to connect **donors, recipients, and h
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/organ-donation.git
+git clone https://github.com/sougata-sarkar10/Organ-share.git
 
 # Navigate to project folder
-cd organ-donation
+cd Organ-share
 
 # Install dependencies for backend
 cd backend
