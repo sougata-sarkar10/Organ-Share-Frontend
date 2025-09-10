@@ -173,8 +173,10 @@ export default function RegisterPage() {
             Back to Home
           </Link>
           <div className="flex items-center justify-center space-x-2 mb-4">
-            <Heart className="h-8 w-8 text-red-500" />
-            <span className="text-2xl font-bold text-gray-900">LifeBridge</span>
+           <img
+  src="/logo.jpg"
+  alt="LifeBridge Logo"
+  className="h-15 w-auto"/>
           </div>
           <h1 className="text-2xl font-bold text-gray-900">Join LifeBridge</h1>
           <p className="text-gray-600">Create your account to save lives</p>
