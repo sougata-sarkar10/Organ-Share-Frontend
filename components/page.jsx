@@ -58,16 +58,31 @@ export default function Matches({ locations = [], organs = [], tissueTypes = [] 
     setFormData({ ...formData, [id]: value });
   };
 
-  const handleSubmit = async (e) => {
-    e.preventDefault();
-    const response = await fetch("http://localhost:5000/predict", {
+ const handleSubmit = async (e) => {
+  e.preventDefault();
+
+  try {
+    // Use env variable in production, fallback to localhost in dev
+    const API_URL = process.env.NEXT_PUBLIC_API_URL || "http://localhost:5000";
+
+    const response = await fetch(`${API_URL}/predict`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(formData),
     });
+
+    if (!response.ok) {
+      throw new Error(`Server error: ${response.statusText}`);
+    }
+
     const data = await response.json();
     setMatches(data.matches || []);
-  };
+  } catch (error) {
+    console.error("Error submitting form:", error);
+    alert("Something went wrong. Please try again.");
+  }
+};
+
 
   const sendRequest = (donor) => {
     alert(`Hospital: ${donor.hospital_name}\nEmail: ${donor.email}\nLocation: ${donor.location}`);
