@@ -6,8 +6,57 @@ import { Card, CardContent } from "@/components/ui/card"
 import Link from "next/link"
 import { useState } from "react"
 
+import { useRouter } from "next/navigation"; 
+
 
 export default function HomePage() {
+  const router = useRouter();
+
+  const handleClick = async () => {
+    try {
+      const response = await fetch("http://127.0.0.1:5000/predict", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          age: 65,
+          location: "Assam",
+          bloodgroup: "AB-",
+          organ: "Kidney",
+          tissue_type: "HLA-DR",
+          urgency: 1,
+        }),
+      });
+
+      const text = await response.text();
+      console.log("Raw response:", text);
+
+      let data;
+      try {
+        data = JSON.parse(text);
+      } catch (err) {
+        alert("Backend did not return valid JSON:\n" + text);
+        return;
+      }
+
+      if (response.ok) {
+        if (data.matches.length > 0) {
+          // ✅ store matches in sessionStorage
+          sessionStorage.setItem("matches", JSON.stringify(data.matches));
+
+          // ✅ redirect to /matches
+          router.push("/matches");
+        } else {
+          alert("No matches found");
+        }
+      } else {
+        alert(data.message || "Error occurred");
+      }
+    } catch (error) {
+      console.error("Error running match:", error.message, error.stack);
+      alert("Failed to run match process.");
+    }
+  };
+
   const [isMenuOpen, setIsMenuOpen] = useState(false)
 
   return (
@@ -163,44 +212,18 @@ export default function HomePage() {
 
 
 
+ <Button
+        variant="outline"
+        className="w-full border-emerald-600 text-emerald-600 hover:bg-emerald-50 bg-transparent"
+        size="lg"
+        onClick={handleClick}
+      >
+        Find a Match as Receiver
+      </Button>
 
 
-
-
-                   <Button
-  variant="outline"
-  className="w-full border-emerald-600 text-emerald-600 hover:bg-emerald-50 bg-transparent"
-  size="lg"
-  onClick={async () => {
-    try {
-      const response = await fetch("http://localhost:5000/find_match", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          receiver_age: 40,
-          receiver_location: "Maharashtra",
-          receiver_bloodgroup: "O+",
-          organ_needed: "Kidney",
-          receiver_tissue_type: "Type1",
-          receiver_urgency: 1
-        })
-      });
-
-      const data = await response.json();
-
-      if (response.ok) {
-        alert("Matches found:\n" + JSON.stringify(data.matches, null, 2));
-      } else {
-        alert(data.message || "No matches found");
-      }
-    } catch (error) {
-      console.error("Error running match:", error);
-      alert("Failed to run match process.");
-    }
-  }}
->
-  Find a Match as Receiver
-</Button>
+    
+                
 
 
                   </Link>
