@@ -12,4 +12,4 @@ const nextConfig = {
   output: "export", // ✅ needed for static export
 };
 
-module.exports = nextConfig;
+export default nextConfig; // ✅ correct for .mjs
