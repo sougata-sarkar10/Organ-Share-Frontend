@@ -1,4 +1,4 @@
-# 🫀 Organ Donation Management System  
+# 🫀 Organ Donation Management System  -- LifeBridge 
 
 A **MERN Stack Web Application** designed to connect **donors, recipients, and hospitals** in a secure and efficient way. This project was developed as a **team collaboration** to promote awareness of organ donation and streamline the donation process.  
 
