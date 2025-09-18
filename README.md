@@ -9,7 +9,7 @@ A **MERN Stack Web Application** designed to connect **donors, recipients, and h
 - 👩‍💻 Raj Sarkar  
 - 👨‍💻 Indranil Dhara  
 - 👩‍💻 Tamal kar
-- 👩‍💻 
+- 👩‍💻 Soumojit Banerjee
 *(Add all contributors here)*  
 
 ---
